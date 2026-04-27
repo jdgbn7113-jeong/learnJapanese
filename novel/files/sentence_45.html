@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>문장 분석 45</title>
+<style>
+  body { font-family: 'Noto Sans KR', 'Noto Sans JP', sans-serif; max-width: 720px; margin: 40px auto; padding: 0 20px; line-height: 1.8; color: #222; }
+  h1 { font-size: 1.4em; border-bottom: 2px solid #333; padding-bottom: 8px; }
+  h2 { font-size: 1.1em; margin-top: 32px; color: #444; }
+  .original { font-size: 1.3em; background: #f5f5f5; padding: 16px; border-left: 4px solid #333; margin: 16px 0; }
+  table { border-collapse: collapse; width: 100%; margin: 12px 0; }
+  th, td { border: 1px solid #ccc; padding: 8px 12px; text-align: left; }
+  th { background: #f0f0f0; }
+  .note { background: #fffde7; padding: 12px; border-left: 3px solid #f9a825; margin: 12px 0; }
+</style>
+</head>
+<body>
+
+<h1>문장 분석 ㊺</h1>
+
+<div class="original">その西洋人の優れて白い皮膚の色が、掛茶屋へ入るや否いなや、すぐ私の注意を惹ひいた。</div>
+
+<h2>1. 히라가나 변환</h2>
+<p>
+  その <strong>せいようじん</strong>の <strong>すぐ</strong>れて <strong>しろ</strong>い <strong>ひふ</strong>の <strong>いろ</strong>が、<strong>かけぢゃや</strong>へ <strong>はい</strong>るや <strong>いな</strong>や、すぐ <strong>わたくし</strong>の <strong>ちゅうい</strong>を <strong>ひ</strong>いた。
+</p>
+
+<h2>2. 전체 의미</h2>
+<p>그 서양인의 유난히 흰 피부색이, 해변 찻집에 들어서자마자 바로 내 주의를 끌었다.</p>
+
+<h2>3. 한자 단어의 의미와 발음</h2>
+<table>
+  <tr><th>한자</th><th>발음</th><th>의미</th></tr>
+  <tr><td>西洋人</td><td>せいようじん</td><td>서양인</td></tr>
+  <tr><td>優れる</td><td>すぐれる</td><td>뛰어나다, 두드러지다. 여기서는 て형으로 '유난히, 두드러지게'</td></tr>
+  <tr><td>白い</td><td>しろい</td><td>하얗다, 희다</td></tr>
+  <tr><td>皮膚</td><td>ひふ</td><td>피부</td></tr>
+  <tr><td>色</td><td>いろ</td><td>색, 색깔</td></tr>
+  <tr><td>掛茶屋</td><td>かけぢゃや</td><td>해변·길가의 임시 찻집</td></tr>
+  <tr><td>入る</td><td>はいる</td><td>들어가다, 들어오다</td></tr>
+  <tr><td>否</td><td>いな</td><td>아니. 여기서는 「や否や」의 일부로 '~하자마자'</td></tr>
+  <tr><td>私</td><td>わたくし</td><td>나, 저 (격식체)</td></tr>
+  <tr><td>注意</td><td>ちゅうい</td><td>주의, 주목</td></tr>
+  <tr><td>惹く</td><td>ひく</td><td>(관심·주의를) 끌다, 매혹하다</td></tr>
+</table>
+
+<h2>4. 문법 분석</h2>
+<table>
+  <tr><th>요소</th><th>설명</th></tr>
+  <tr><td>その</td><td>지시 연체사. 앞 문장에서 언급된 '그 서양인'을 다시 받음</td></tr>
+  <tr><td>の (연속)</td><td>「その西洋人の優れて白い皮膚の色が」 안에 の가 세 번 — 소유·수식의 중첩. '그 서양인의 / (유난히 흰) 피부의 / 색'으로 명사구가 단계적으로 좁혀짐</td></tr>
+  <tr><td>優れて白い</td><td>「優れる」의 て형이 부사처럼 기능해 뒤의 い형용사 「白い」를 수식. '유난히 희다'. て형이 뒤 형용사의 정도를 강조하는 용법</td></tr>
+  <tr><td>皮膚の色</td><td>명사+の+명사. '피부의 색' — 수식하는 쪽이 앞, 핵심 명사가 뒤</td></tr>
+  <tr><td>が (주격)</td><td>「色が」의 が는 문장의 주어를 명시하며, 뒤에 이어지는 '주의를 끌었다'의 주체를 색(즉 시각 정보)으로 지정</td></tr>
+  <tr><td>へ (방향)</td><td>「掛茶屋へ入る」의 へ는 이동의 방향. 「に」보다 방향성이 강조됨</td></tr>
+  <tr><td>～や否や</td><td>동사 기본형 + 「や否や」. '~하자마자, ~함과 동시에'. 문어적·고전적 접속. 두 동작의 시간차가 거의 없음을 강조</td></tr>
+  <tr><td>すぐ</td><td>부사 '즉시, 곧바로'. 앞의 「や否や」와 호응해 즉각성을 이중으로 강조</td></tr>
+  <tr><td>私の注意を</td><td>「私の」(나의) + 「注意」(주의) + 「を」(목적격). '나의 주의를' — 뒤에 오는 타동사 「惹く」의 대상</td></tr>
+  <tr><td>惹いた</td><td>「惹く」의 과거형. 표준 현대어에서는 「注意を引く」로 쓰지만, 소세키는 「惹」(끌어당기다)를 골라 씀. 같은 훈독 「ひく」에 더 강한 흡인력을 담은 한자 선택</td></tr>
+</table>
+
+<h2>5. 특이점</h2>
+<div class="note">
+  <strong>「優れて白い」의 부사적 용법:</strong> 「優れる」는 본래 '뛰어나다'라는 동사지만, 이 문장에서는 て형이 바로 뒤 い형용사 「白い」의 정도를 수식하는 부사처럼 기능합니다. 즉 '우수한 흰색'이 아니라 '유난히 흰, 두드러지게 흰'이라는 뜻입니다. 메이지 문어체에서 자주 보이는 구조로, 단순한 「とても白い」와 달리 '일반적인 흰 피부 중에서도 단연 돋보인다'는 비교적 뉘앙스를 담습니다.
+</div>
+<div class="note">
+  <strong>「や否や」 문어적 접속 표현:</strong> 동사 기본형 뒤에 「や」와 「否や」가 연이어 붙어 '~하자마자'를 뜻합니다. 현대 회화에서는 거의 쓰이지 않고 문학·법률·신문 표제에서 남아 있는 고전적 표현입니다. 뒤에 「すぐ」까지 겹쳐 있어, 사건의 즉각성을 문법과 부사 두 겹으로 못박습니다. 소세키 문체의 문어 지향성이 선명하게 드러나는 대목입니다.
+</div>
+<div class="note">
+  <strong>「注意を惹いた」의 한자 선택:</strong> 표준 현대 표기는 「注意を引いた」입니다. 두 글자 모두 훈독이 「ひく」지만, 「引く」가 물리적·중립적으로 '당기다'인 반면 「惹く」는 '매혹해 끌어당기다'는 정서적 자장(磁場)을 담습니다. 소세키가 이 글자를 고른 이유는, 서양인의 흰 피부가 단순한 호기심이 아니라 서술자의 시선을 '사로잡았음'을 암시하기 위함입니다. 이 표기 하나로 장면의 강도가 달라집니다.
+</div>
+<div class="note">
+  <strong>흰 피부가 끌어당긴 시선 — 서사적 기능:</strong> 앞 문장(44)에서 서술자가 혼잡한 해변에서 선생님을 바로 알아본 이유로 '서양인을 동반하고 있었기 때문'이라 밝혔습니다. 이 문장은 그 이유를 시각적 근거로 확정합니다 — '서양인 = 이 해변에서 보기 드문 흰 피부'. 즉 선생님의 특별함이 시각적 충격(흰 피부)으로 번역되어, 독자의 망막에도 그 장면이 각인되는 구조입니다. 이는 소세키 특유의 '인상을 시각으로 못 박는' 묘사 기법입니다.
+</div>
+
+</body>
+</html>

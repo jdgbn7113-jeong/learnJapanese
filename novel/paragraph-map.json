@@ -1,0 +1,89 @@
+{
+  "totalParagraphs": 56,
+  "paragraphs": [
+    {
+      "paragraph": 1,
+      "range": [
+        1,
+        39
+      ]
+    },
+    {
+      "paragraph": 2,
+      "range": [
+        40,
+        75
+      ]
+    },
+    {
+      "paragraph": 3,
+      "range": [
+        76,
+        123
+      ]
+    },
+    {
+      "paragraph": 4,
+      "range": [
+        124,
+        172
+      ]
+    },
+    {
+      "paragraph": 5,
+      "range": [
+        173,
+        222
+      ]
+    },
+    {
+      "paragraph": 6,
+      "range": [
+        223,
+        269
+      ]
+    },
+    {
+      "paragraph": 7,
+      "range": [
+        270,
+        308
+      ]
+    },
+    {
+      "paragraph": 8,
+      "range": [
+        309,
+        353
+      ]
+    },
+    {
+      "paragraph": 9,
+      "range": [
+        354,
+        398
+      ]
+    },
+    {
+      "paragraph": 10,
+      "range": [
+        399,
+        432
+      ]
+    },
+    {
+      "paragraph": 11,
+      "range": [
+        433,
+        472
+      ]
+    },
+    {
+      "paragraph": 12,
+      "range": [
+        473,
+        510
+      ]
+    }
+  ]
+}

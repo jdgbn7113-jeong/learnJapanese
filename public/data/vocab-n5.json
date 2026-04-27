@@ -1,0 +1,4571 @@
+{
+  "level": "N5",
+  "words": [
+    {
+      "kana": "あいだ",
+      "kanji": "間",
+      "meaning": "사이",
+      "pos": "명사"
+    },
+    {
+      "kana": "あう",
+      "kanji": "会う",
+      "meaning": "만나다",
+      "pos": "동사"
+    },
+    {
+      "kana": "あおい",
+      "kanji": "青い",
+      "meaning": "파랗다, 푸르다",
+      "pos": "い형용사"
+    },
+    {
+      "kana": "あかい",
+      "kanji": "赤い",
+      "meaning": "빨갛다",
+      "pos": "い형용사"
+    },
+    {
+      "kana": "あがる",
+      "kanji": "上がる",
+      "meaning": "오르다, 올라가다",
+      "pos": "동사"
+    },
+    {
+      "kana": "あかるい",
+      "kanji": "明るい",
+      "meaning": "밝다, 환하다, 명랑하다",
+      "pos": "い형용사"
+    },
+    {
+      "kana": "あき",
+      "kanji": "秋",
+      "meaning": "가을",
+      "pos": "명사"
+    },
+    {
+      "kana": "あく",
+      "kanji": "開く",
+      "meaning": "열리다",
+      "pos": "동사"
+    },
+    {
+      "kana": "あける",
+      "kanji": "開ける",
+      "meaning": "열다",
+      "pos": "동사"
+    },
+    {
+      "kana": "あげる",
+      "kanji": "上げる",
+      "meaning": "올리다",
+      "pos": "동사"
+    },
+    {
+      "kana": "あげる",
+      "kanji": null,
+      "meaning": "주다",
+      "pos": "동사"
+    },
+    {
+      "kana": "あさ",
+      "kanji": "朝",
+      "meaning": "아침",
+      "pos": "명사"
+    },
+    {
+      "kana": "あさごはん",
+      "kanji": "朝御飯",
+      "meaning": "아침밥",
+      "pos": "명사"
+    },
+    {
+      "kana": "あさって",
+      "kanji": null,
+      "meaning": "모레",
+      "pos": "명사"
+    },
+    {
+      "kana": "あし",
+      "kanji": "足",
+      "meaning": "발, 다리",
+      "pos": "명사"
+    },
+    {
+      "kana": "あした",
+      "kanji": "明日",
+      "meaning": "내일",
+      "pos": "명사"
+    },
+    {
+      "kana": "あそこ",
+      "kanji": null,
+      "meaning": "저기, 저쪽",
+      "pos": "대명사"
+    },
+    {
+      "kana": "あそぶ",
+      "kanji": "遊ぶ",
+      "meaning": "놀다",
+      "pos": "동사"
+    },
+    {
+      "kana": "あたま",
+      "kanji": "頭",
+      "meaning": "머리",
+      "pos": "명사"
+    },
+    {
+      "kana": "あたらしい",
+      "kanji": "新しい",
+      "meaning": "새롭다, 새것이다",
+      "pos": "い형용사"
+    },
+    {
+      "kana": "あちら",
+      "kanji": null,
+      "meaning": "저쪽",
+      "pos": "대명사"
+    },
+    {
+      "kana": "あつい",
+      "kanji": "暑い",
+      "meaning": "덥다",
+      "pos": "い형용사"
+    },
+    {
+      "kana": "あと",
+      "kanji": "後",
+      "meaning": "뒤, 나중",
+      "pos": "명사"
+    },
+    {
+      "kana": "あなた",
+      "kanji": "あなた",
+      "meaning": "당신",
+      "pos": "대명사"
+    },
+    {
+      "kana": "あに",
+      "kanji": "兄",
+      "meaning": "(나의) 형, 오빠",
+      "pos": "명사"
+    },
+    {
+      "kana": "あね",
+      "kanji": "姉",
+      "meaning": "(나의) 누나, 언니",
+      "pos": "명사"
+    },
+    {
+      "kana": "あの",
+      "kanji": null,
+      "meaning": "저",
+      "pos": "연체사"
+    },
+    {
+      "kana": "あびる",
+      "kanji": "浴びる",
+      "meaning": "(샤워를) 하다, 뒤집어쓰다",
+      "pos": "동사"
+    },
+    {
+      "kana": "あぶない",
+      "kanji": "危ない",
+      "meaning": "위험하다",
+      "pos": "い형용사"
+    },
+    {
+      "kana": "あまい",
+      "kanji": "甘い",
+      "meaning": "달다, 달콤하다",
+      "pos": "い형용사"
+    },
+    {
+      "kana": "あまり",
+      "kanji": "あまり",
+      "meaning": "그다지, 별로 (부정문과 함께)",
+      "pos": "부사"
+    },
+    {
+      "kana": "あまり",
+      "kanji": "余り",
+      "meaning": "나머지, 남은 것",
+      "pos": "명사"
+    },
+    {
+      "kana": "あめ",
+      "kanji": "雨",
+      "meaning": "비",
+      "pos": "명사"
+    },
+    {
+      "kana": "あらう",
+      "kanji": "洗う",
+      "meaning": "씻다",
+      "pos": "동사"
+    },
+    {
+      "kana": "ありがとうございます",
+      "kanji": null,
+      "meaning": "감사합니다",
+      "pos": "인사"
+    },
+    {
+      "kana": "ある",
+      "kanji": "或る",
+      "meaning": "있다 (사물)",
+      "pos": "동사"
+    },
+    {
+      "kana": "あるく",
+      "kanji": "歩く",
+      "meaning": "걷다",
+      "pos": "동사"
+    },
+    {
+      "kana": "あれ",
+      "kanji": null,
+      "meaning": "저것",
+      "pos": "대명사"
+    },
+    {
+      "kana": "あんな",
+      "kanji": null,
+      "meaning": "저런",
+      "pos": "연체사"
+    },
+    {
+      "kana": "いい",
+      "kanji": "良い",
+      "meaning": "좋다",
+      "pos": "い형용사"
+    },
+    {
+      "kana": "いいえ",
+      "kanji": "いいえ",
+      "meaning": "아니요",
+      "pos": "감탄사"
+    },
+    {
+      "kana": "いう",
+      "kanji": "言う",
+      "meaning": "말하다",
+      "pos": "동사"
+    },
+    {
+      "kana": "いえ",
+      "kanji": "家",
+      "meaning": "집",
+      "pos": "명사"
+    },
+    {
+      "kana": "いく",
+      "kanji": "行く",
+      "meaning": "가다",
+      "pos": "동사"
+    },
+    {
+      "kana": "いくつ",
+      "kanji": "幾つ",
+      "meaning": "몇, 몇 개, 몇 살",
+      "pos": "의문사"
+    },
+    {
+      "kana": "いくら",
+      "kanji": null,
+      "meaning": "얼마",
+      "pos": "의문사"
+    },
+    {
+      "kana": "いしゃ",
+      "kanji": "医者",
+      "meaning": "의사",
+      "pos": "명사"
+    },
+    {
+      "kana": "いす",
+      "kanji": "椅子",
+      "meaning": "의자",
+      "pos": "명사"
+    },
+    {
+      "kana": "いそがしい",
+      "kanji": "忙しい",
+      "meaning": "바쁘다",
+      "pos": "い형용사"
+    },
+    {
+      "kana": "いたい",
+      "kanji": "痛い",
+      "meaning": "아프다",
+      "pos": "い형용사"
+    },
+    {
+      "kana": "いち",
+      "kanji": "一",
+      "meaning": "1, 하나",
+      "pos": "수사"
+    },
+    {
+      "kana": "いちがつ",
+      "kanji": "一月",
+      "meaning": "1월",
+      "pos": "명사"
+    },
+    {
+      "kana": "いちじ",
+      "kanji": "一時",
+      "meaning": "1시, 한때",
+      "pos": "명사"
+    },
+    {
+      "kana": "いちにち",
+      "kanji": "一日",
+      "meaning": "하루",
+      "pos": "명사"
+    },
+    {
+      "kana": "いちねん",
+      "kanji": "一年",
+      "meaning": "1년",
+      "pos": "명사"
+    },
+    {
+      "kana": "いちばん",
+      "kanji": "一番",
+      "meaning": "1번, 가장, 제일",
+      "pos": "명사"
+    },
+    {
+      "kana": "いつ",
+      "kanji": null,
+      "meaning": "언제",
+      "pos": "의문사"
+    },
+    {
+      "kana": "いつか",
+      "kanji": "五日",
+      "meaning": "5일",
+      "pos": "명사"
+    },
+    {
+      "kana": "いっかい",
+      "kanji": "一回",
+      "meaning": "1회, 한 번",
+      "pos": "명사"
+    },
+    {
+      "kana": "いっこ",
+      "kanji": "一個",
+      "meaning": "한 개",
+      "pos": "명사"
+    },
+    {
+      "kana": "いっしゅうかん",
+      "kanji": "一週間",
+      "meaning": "일주일",
+      "pos": "명사"
+    },
+    {
+      "kana": "いっしょに",
+      "kanji": null,
+      "meaning": "함께, 같이",
+      "pos": "부사"
+    },
+    {
+      "kana": "いつつ",
+      "kanji": "五つ",
+      "meaning": "다섯",
+      "pos": "수사"
+    },
+    {
+      "kana": "いっぱい",
+      "kanji": "一杯",
+      "meaning": "한 잔, 가득",
+      "pos": "명사"
+    },
+    {
+      "kana": "いっぷん",
+      "kanji": "一分",
+      "meaning": "1분",
+      "pos": "명사"
+    },
+    {
+      "kana": "いっぽん",
+      "kanji": "一本",
+      "meaning": "한 자루, 한 병",
+      "pos": "명사"
+    },
+    {
+      "kana": "いつも",
+      "kanji": "いつも",
+      "meaning": "항상, 언제나",
+      "pos": "부사"
+    },
+    {
+      "kana": "いぬ",
+      "kanji": "犬",
+      "meaning": "개",
+      "pos": "명사"
+    },
+    {
+      "kana": "いま",
+      "kanji": "今",
+      "meaning": "지금",
+      "pos": "명사"
+    },
+    {
+      "kana": "いみ",
+      "kanji": "意味",
+      "meaning": "의미, 뜻",
+      "pos": "명사"
+    },
+    {
+      "kana": "いもうと",
+      "kanji": "妹",
+      "meaning": "여동생",
+      "pos": "명사"
+    },
+    {
+      "kana": "いやな",
+      "kanji": "嫌な",
+      "meaning": "싫은",
+      "pos": "な형용사"
+    },
+    {
+      "kana": "いらっしゃいませ",
+      "kanji": null,
+      "meaning": "어서 오세요",
+      "pos": "인사"
+    },
+    {
+      "kana": "いりぐち",
+      "kanji": "入り口",
+      "meaning": "입구",
+      "pos": "명사"
+    },
+    {
+      "kana": "いる",
+      "kanji": "要る",
+      "meaning": "필요하다",
+      "pos": "동사"
+    },
+    {
+      "kana": "いる",
+      "kanji": null,
+      "meaning": "있다 (사람, 동물)",
+      "pos": "동사"
+    },
+    {
+      "kana": "いれる",
+      "kanji": "入れる",
+      "meaning": "넣다",
+      "pos": "동사"
+    },
+    {
+      "kana": "いろ",
+      "kanji": "色",
+      "meaning": "색, 색깔",
+      "pos": "명사"
+    },
+    {
+      "kana": "いろいろ",
+      "kanji": "色々",
+      "meaning": "여러 가지",
+      "pos": "な형용사"
+    },
+    {
+      "kana": "うえ",
+      "kanji": "上",
+      "meaning": "위",
+      "pos": "명사"
+    },
+    {
+      "kana": "うごく",
+      "kanji": "動く",
+      "meaning": "움직이다",
+      "pos": "동사"
+    },
+    {
+      "kana": "うしろ",
+      "kanji": "後ろ",
+      "meaning": "뒤, 뒤쪽",
+      "pos": "명사"
+    },
+    {
+      "kana": "うた",
+      "kanji": "歌",
+      "meaning": "노래",
+      "pos": "명사"
+    },
+    {
+      "kana": "うたう",
+      "kanji": "歌う",
+      "meaning": "노래하다, 노래 부르다",
+      "pos": "동사"
+    },
+    {
+      "kana": "うまれる",
+      "kanji": "生まれる",
+      "meaning": "태어나다",
+      "pos": "동사"
+    },
+    {
+      "kana": "うみ",
+      "kanji": "海",
+      "meaning": "바다",
+      "pos": "명사"
+    },
+    {
+      "kana": "うる",
+      "kanji": "売る",
+      "meaning": "팔다",
+      "pos": "동사"
+    },
+    {
+      "kana": "うるさい",
+      "kanji": null,
+      "meaning": "시끄럽다",
+      "pos": "い형용사"
+    },
+    {
+      "kana": "うわぎ",
+      "kanji": "上着",
+      "meaning": "겉옷, 윗도리",
+      "pos": "명사"
+    },
+    {
+      "kana": "え",
+      "kanji": "絵",
+      "meaning": "그림",
+      "pos": "명사"
+    },
+    {
+      "kana": "えいがかん",
+      "kanji": "映画館",
+      "meaning": "영화관",
+      "pos": "명사"
+    },
+    {
+      "kana": "えいご",
+      "kanji": "英語",
+      "meaning": "영어",
+      "pos": "명사"
+    },
+    {
+      "kana": "えき",
+      "kanji": "駅",
+      "meaning": "역",
+      "pos": "명사"
+    },
+    {
+      "kana": "えん",
+      "kanji": "円",
+      "meaning": "엔 (일본 화폐 단위), 원, 동그라미",
+      "pos": "명사"
+    },
+    {
+      "kana": "えんぴつ",
+      "kanji": "鉛筆",
+      "meaning": "연필",
+      "pos": "명사"
+    },
+    {
+      "kana": "おいしい",
+      "kanji": null,
+      "meaning": "맛있다",
+      "pos": "い형용사"
+    },
+    {
+      "kana": "おおい",
+      "kanji": "多い",
+      "meaning": "많다",
+      "pos": "い형용사"
+    },
+    {
+      "kana": "おおきい",
+      "kanji": "大きい",
+      "meaning": "크다",
+      "pos": "い형용사"
+    },
+    {
+      "kana": "おおきな",
+      "kanji": "大きな",
+      "meaning": "큰",
+      "pos": "연체사"
+    },
+    {
+      "kana": "おかあさん",
+      "kanji": "お母さん",
+      "meaning": "어머니",
+      "pos": "명사"
+    },
+    {
+      "kana": "おかし",
+      "kanji": "お菓子",
+      "meaning": "과자",
+      "pos": "명사"
+    },
+    {
+      "kana": "おかね",
+      "kanji": "お金",
+      "meaning": "돈",
+      "pos": "명사"
+    },
+    {
+      "kana": "おきゃくさん",
+      "kanji": "お客さん",
+      "meaning": "손님",
+      "pos": "명사"
+    },
+    {
+      "kana": "おきる",
+      "kanji": "起きる",
+      "meaning": "일어나다",
+      "pos": "동사"
+    },
+    {
+      "kana": "おく",
+      "kanji": "置く",
+      "meaning": "두다, 놓다",
+      "pos": "동사"
+    },
+    {
+      "kana": "おくさん",
+      "kanji": "奥さん",
+      "meaning": "부인, 사모님",
+      "pos": "명사"
+    },
+    {
+      "kana": "おさけ",
+      "kanji": "お酒",
+      "meaning": "술",
+      "pos": "명사"
+    },
+    {
+      "kana": "おさら",
+      "kanji": "お皿",
+      "meaning": "접시",
+      "pos": "명사"
+    },
+    {
+      "kana": "おじいさん",
+      "kanji": null,
+      "meaning": "할아버지",
+      "pos": "명사"
+    },
+    {
+      "kana": "おしえる",
+      "kanji": "教える",
+      "meaning": "가르치다",
+      "pos": "동사"
+    },
+    {
+      "kana": "おじさん",
+      "kanji": null,
+      "meaning": "아저씨, 삼촌",
+      "pos": "명사"
+    },
+    {
+      "kana": "おす",
+      "kanji": "押す",
+      "meaning": "밀다, 누르다",
+      "pos": "동사"
+    },
+    {
+      "kana": "おすし",
+      "kanji": null,
+      "meaning": "초밥",
+      "pos": "명사"
+    },
+    {
+      "kana": "おそい",
+      "kanji": "遅い",
+      "meaning": "늦다, 느리다",
+      "pos": "い형용사"
+    },
+    {
+      "kana": "おちゃ",
+      "kanji": "お茶",
+      "meaning": "차",
+      "pos": "명사"
+    },
+    {
+      "kana": "おとうさん",
+      "kanji": "お父さん",
+      "meaning": "아버지",
+      "pos": "명사"
+    },
+    {
+      "kana": "おとうと",
+      "kanji": "弟",
+      "meaning": "남동생",
+      "pos": "명사"
+    },
+    {
+      "kana": "おとこ",
+      "kanji": "男",
+      "meaning": "남자",
+      "pos": "명사"
+    },
+    {
+      "kana": "おとこのこ",
+      "kanji": "男の子",
+      "meaning": "남자아이",
+      "pos": "명사"
+    },
+    {
+      "kana": "おとこのひと",
+      "kanji": "男の人",
+      "meaning": "남자",
+      "pos": "명사"
+    },
+    {
+      "kana": "おととい",
+      "kanji": null,
+      "meaning": "그저께",
+      "pos": "명사"
+    },
+    {
+      "kana": "おととし",
+      "kanji": null,
+      "meaning": "재작년",
+      "pos": "명사"
+    },
+    {
+      "kana": "おとな",
+      "kanji": "大人",
+      "meaning": "어른, 성인",
+      "pos": "명사"
+    },
+    {
+      "kana": "おなか",
+      "kanji": "お腹",
+      "meaning": "배",
+      "pos": "명사"
+    },
+    {
+      "kana": "おなじ",
+      "kanji": "同じ",
+      "meaning": "같은, 동일한",
+      "pos": "연체사"
+    },
+    {
+      "kana": "おにいさん",
+      "kanji": "お兄さん",
+      "meaning": "형, 오빠",
+      "pos": "명사"
+    },
+    {
+      "kana": "おねえさん",
+      "kanji": "お姉さん",
+      "meaning": "누나, 언니",
+      "pos": "명사"
+    },
+    {
+      "kana": "おばあさん",
+      "kanji": null,
+      "meaning": "할머니",
+      "pos": "명사"
+    },
+    {
+      "kana": "おばさん",
+      "kanji": null,
+      "meaning": "아주머니, 이모, 고모",
+      "pos": "명사"
+    },
+    {
+      "kana": "おはようございます",
+      "kanji": null,
+      "meaning": "안녕하세요 (아침 인사)",
+      "pos": "인사"
+    },
+    {
+      "kana": "おふろ",
+      "kanji": "お風呂",
+      "meaning": "목욕, 욕실",
+      "pos": "명사"
+    },
+    {
+      "kana": "おべんとう",
+      "kanji": "お弁当",
+      "meaning": "도시락",
+      "pos": "명사"
+    },
+    {
+      "kana": "おぼえる",
+      "kanji": "覚える",
+      "meaning": "외우다, 기억하다",
+      "pos": "동사"
+    },
+    {
+      "kana": "おまわりさん",
+      "kanji": null,
+      "meaning": "경찰관",
+      "pos": "명사"
+    },
+    {
+      "kana": "おもい",
+      "kanji": "重い",
+      "meaning": "무겁다",
+      "pos": "い형용사"
+    },
+    {
+      "kana": "おもう",
+      "kanji": "思う",
+      "meaning": "생각하다, 여기다",
+      "pos": "동사"
+    },
+    {
+      "kana": "おもしろい",
+      "kanji": null,
+      "meaning": "재미있다",
+      "pos": "い형용사"
+    },
+    {
+      "kana": "およぐ",
+      "kanji": "泳ぐ",
+      "meaning": "헤엄치다, 수영하다",
+      "pos": "동사"
+    },
+    {
+      "kana": "おりる",
+      "kanji": "降りる",
+      "meaning": "(탈것에서) 내리다",
+      "pos": "동사"
+    },
+    {
+      "kana": "おわる",
+      "kanji": "終わる",
+      "meaning": "끝나다",
+      "pos": "동사"
+    },
+    {
+      "kana": "おんがく",
+      "kanji": "音楽",
+      "meaning": "음악",
+      "pos": "명사"
+    },
+    {
+      "kana": "おんな",
+      "kanji": "女",
+      "meaning": "여자",
+      "pos": "명사"
+    },
+    {
+      "kana": "おんなのこ",
+      "kanji": "女の子",
+      "meaning": "여자아이",
+      "pos": "명사"
+    },
+    {
+      "kana": "おんなのひと",
+      "kanji": "女の人",
+      "meaning": "여자",
+      "pos": "명사"
+    },
+    {
+      "kana": "がいこく",
+      "kanji": "外国",
+      "meaning": "외국",
+      "pos": "명사"
+    },
+    {
+      "kana": "かいしゃ",
+      "kanji": "会社",
+      "meaning": "회사",
+      "pos": "명사"
+    },
+    {
+      "kana": "かいしゃいん",
+      "kanji": "会社員",
+      "meaning": "회사원",
+      "pos": "명사"
+    },
+    {
+      "kana": "かいだん",
+      "kanji": "階段",
+      "meaning": "계단",
+      "pos": "명사"
+    },
+    {
+      "kana": "かいもの",
+      "kanji": "買い物",
+      "meaning": "쇼핑, 장보기",
+      "pos": "명사"
+    },
+    {
+      "kana": "かう",
+      "kanji": "買う",
+      "meaning": "사다",
+      "pos": "동사"
+    },
+    {
+      "kana": "かえす",
+      "kanji": "返す",
+      "meaning": "돌려주다",
+      "pos": "동사"
+    },
+    {
+      "kana": "かえる",
+      "kanji": "帰る",
+      "meaning": "돌아가다, 돌아오다",
+      "pos": "동사"
+    },
+    {
+      "kana": "かお",
+      "kanji": "顔",
+      "meaning": "얼굴",
+      "pos": "명사"
+    },
+    {
+      "kana": "かかる",
+      "kanji": null,
+      "meaning": "(시간·돈이) 걸리다, 들다",
+      "pos": "동사"
+    },
+    {
+      "kana": "かぎ",
+      "kanji": "鍵",
+      "meaning": "열쇠",
+      "pos": "명사"
+    },
+    {
+      "kana": "かく",
+      "kanji": "書く",
+      "meaning": "쓰다, 적다",
+      "pos": "동사"
+    },
+    {
+      "kana": "がくせい",
+      "kanji": "学生",
+      "meaning": "학생",
+      "pos": "명사"
+    },
+    {
+      "kana": "かさ",
+      "kanji": "傘",
+      "meaning": "우산",
+      "pos": "명사"
+    },
+    {
+      "kana": "かす",
+      "kanji": "貸す",
+      "meaning": "빌려주다",
+      "pos": "동사"
+    },
+    {
+      "kana": "かぜ",
+      "kanji": "風",
+      "meaning": "바람",
+      "pos": "명사"
+    },
+    {
+      "kana": "かぜ",
+      "kanji": "風邪",
+      "meaning": "감기",
+      "pos": "명사"
+    },
+    {
+      "kana": "かぞく",
+      "kanji": "家族",
+      "meaning": "가족",
+      "pos": "명사"
+    },
+    {
+      "kana": "がっこう",
+      "kanji": "学校",
+      "meaning": "학교",
+      "pos": "명사"
+    },
+    {
+      "kana": "かど",
+      "kanji": "角",
+      "meaning": "모퉁이, 구석",
+      "pos": "명사"
+    },
+    {
+      "kana": "かね",
+      "kanji": "金",
+      "meaning": "돈",
+      "pos": "명사"
+    },
+    {
+      "kana": "かばん",
+      "kanji": "鞄",
+      "meaning": "가방",
+      "pos": "명사"
+    },
+    {
+      "kana": "かびん",
+      "kanji": "花瓶",
+      "meaning": "꽃병",
+      "pos": "명사"
+    },
+    {
+      "kana": "かぶる",
+      "kanji": null,
+      "meaning": "(모자를) 쓰다",
+      "pos": "동사"
+    },
+    {
+      "kana": "かみ",
+      "kanji": "紙",
+      "meaning": "종이",
+      "pos": "명사"
+    },
+    {
+      "kana": "かようび",
+      "kanji": "火曜日",
+      "meaning": "화요일",
+      "pos": "명사"
+    },
+    {
+      "kana": "からい",
+      "kanji": "辛い",
+      "meaning": "맵다",
+      "pos": "い형용사"
+    },
+    {
+      "kana": "からだ",
+      "kanji": "体",
+      "meaning": "몸",
+      "pos": "명사"
+    },
+    {
+      "kana": "かりる",
+      "kanji": "借りる",
+      "meaning": "빌리다",
+      "pos": "동사"
+    },
+    {
+      "kana": "かるい",
+      "kanji": "軽い",
+      "meaning": "가볍다",
+      "pos": "い형용사"
+    },
+    {
+      "kana": "かれ",
+      "kanji": "彼",
+      "meaning": "그 (3인칭 남성 대명사)",
+      "pos": "대명사"
+    },
+    {
+      "kana": "かわ",
+      "kanji": "川",
+      "meaning": "강, 하천",
+      "pos": "명사"
+    },
+    {
+      "kana": "かわいい",
+      "kanji": null,
+      "meaning": "귀엽다",
+      "pos": "い형용사"
+    },
+    {
+      "kana": "かわる",
+      "kanji": "変わる",
+      "meaning": "바뀌다, 변하다, 다르다",
+      "pos": "동사"
+    },
+    {
+      "kana": "かんじ",
+      "kanji": "漢字",
+      "meaning": "한자",
+      "pos": "명사"
+    },
+    {
+      "kana": "き",
+      "kanji": "木",
+      "meaning": "나무",
+      "pos": "명사"
+    },
+    {
+      "kana": "きいろい",
+      "kanji": "黄色い",
+      "meaning": "노랗다",
+      "pos": "い형용사"
+    },
+    {
+      "kana": "きえる",
+      "kanji": "消える",
+      "meaning": "꺼지다, 사라지다",
+      "pos": "동사"
+    },
+    {
+      "kana": "きく",
+      "kanji": "聞く",
+      "meaning": "듣다, 묻다",
+      "pos": "동사"
+    },
+    {
+      "kana": "きた",
+      "kanji": "北",
+      "meaning": "북쪽",
+      "pos": "명사"
+    },
+    {
+      "kana": "きたない",
+      "kanji": "汚い",
+      "meaning": "더럽다",
+      "pos": "い형용사"
+    },
+    {
+      "kana": "きっさてん",
+      "kanji": "喫茶店",
+      "meaning": "찻집, 카페",
+      "pos": "명사"
+    },
+    {
+      "kana": "きって",
+      "kanji": "切手",
+      "meaning": "우표",
+      "pos": "명사"
+    },
+    {
+      "kana": "きっぷ",
+      "kanji": "切符",
+      "meaning": "표, 티켓",
+      "pos": "명사"
+    },
+    {
+      "kana": "きのう",
+      "kanji": "昨日",
+      "meaning": "어제",
+      "pos": "명사"
+    },
+    {
+      "kana": "きもの",
+      "kanji": "着物",
+      "meaning": "기모노, 일본 전통 의복",
+      "pos": "명사"
+    },
+    {
+      "kana": "きゅう",
+      "kanji": "九",
+      "meaning": "9, 아홉",
+      "pos": "수사"
+    },
+    {
+      "kana": "ぎゅうにく",
+      "kanji": "牛肉",
+      "meaning": "소고기",
+      "pos": "명사"
+    },
+    {
+      "kana": "ぎゅうにゅう",
+      "kanji": "牛乳",
+      "meaning": "우유",
+      "pos": "명사"
+    },
+    {
+      "kana": "きゅうにん",
+      "kanji": "九人",
+      "meaning": "9명, 아홉 명",
+      "pos": "명사"
+    },
+    {
+      "kana": "きゅうねん",
+      "kanji": "九年",
+      "meaning": "9년",
+      "pos": "명사"
+    },
+    {
+      "kana": "きゅうふん",
+      "kanji": "九分",
+      "meaning": "9분",
+      "pos": "명사"
+    },
+    {
+      "kana": "きょう",
+      "kanji": "今日",
+      "meaning": "오늘",
+      "pos": "명사"
+    },
+    {
+      "kana": "きょうしつ",
+      "kanji": "教室",
+      "meaning": "교실",
+      "pos": "명사"
+    },
+    {
+      "kana": "きょうだい",
+      "kanji": "兄弟",
+      "meaning": "형제",
+      "pos": "명사"
+    },
+    {
+      "kana": "きょねん",
+      "kanji": "去年",
+      "meaning": "작년",
+      "pos": "명사"
+    },
+    {
+      "kana": "きらいな",
+      "kanji": "嫌いな",
+      "meaning": "싫어하는",
+      "pos": "な형용사"
+    },
+    {
+      "kana": "きれいな",
+      "kanji": null,
+      "meaning": "예쁜, 깨끗한",
+      "pos": "な형용사"
+    },
+    {
+      "kana": "ぎんこう",
+      "kanji": "銀行",
+      "meaning": "은행",
+      "pos": "명사"
+    },
+    {
+      "kana": "きんようび",
+      "kanji": "金曜日",
+      "meaning": "금요일",
+      "pos": "명사"
+    },
+    {
+      "kana": "くがつ",
+      "kanji": "九月",
+      "meaning": "9월",
+      "pos": "명사"
+    },
+    {
+      "kana": "くじ",
+      "kanji": "九時",
+      "meaning": "9시",
+      "pos": "명사"
+    },
+    {
+      "kana": "くすり",
+      "kanji": "薬",
+      "meaning": "약",
+      "pos": "명사"
+    },
+    {
+      "kana": "くだもの",
+      "kanji": "果物",
+      "meaning": "과일",
+      "pos": "명사"
+    },
+    {
+      "kana": "くち",
+      "kanji": "口",
+      "meaning": "입",
+      "pos": "명사"
+    },
+    {
+      "kana": "くつ",
+      "kanji": "靴",
+      "meaning": "신발, 구두",
+      "pos": "명사"
+    },
+    {
+      "kana": "くつした",
+      "kanji": "靴下",
+      "meaning": "양말",
+      "pos": "명사"
+    },
+    {
+      "kana": "くに",
+      "kanji": "国",
+      "meaning": "나라, 국가",
+      "pos": "명사"
+    },
+    {
+      "kana": "くらい",
+      "kanji": "暗い",
+      "meaning": "어둡다",
+      "pos": "い형용사"
+    },
+    {
+      "kana": "くらい",
+      "kanji": null,
+      "meaning": "…정도, …만큼",
+      "pos": "조사"
+    },
+    {
+      "kana": "ぐらい",
+      "kanji": null,
+      "meaning": "…정도, …쯤",
+      "pos": "조사"
+    },
+    {
+      "kana": "くる",
+      "kanji": "来る",
+      "meaning": "오다",
+      "pos": "동사"
+    },
+    {
+      "kana": "くるま",
+      "kanji": "車",
+      "meaning": "차, 자동차",
+      "pos": "명사"
+    },
+    {
+      "kana": "くろい",
+      "kanji": "黒い",
+      "meaning": "검다, 까맣다",
+      "pos": "い형용사"
+    },
+    {
+      "kana": "けさ",
+      "kanji": "今朝",
+      "meaning": "오늘 아침",
+      "pos": "명사"
+    },
+    {
+      "kana": "けす",
+      "kanji": "消す",
+      "meaning": "(불을) 끄다, 지우다",
+      "pos": "동사"
+    },
+    {
+      "kana": "けっこん",
+      "kanji": "結婚",
+      "meaning": "결혼",
+      "pos": "명사"
+    },
+    {
+      "kana": "げつようび",
+      "kanji": "月曜日",
+      "meaning": "월요일",
+      "pos": "명사"
+    },
+    {
+      "kana": "げんき",
+      "kanji": "元気",
+      "meaning": "기운, 원기",
+      "pos": "명사"
+    },
+    {
+      "kana": "げんきな",
+      "kanji": "元気な",
+      "meaning": "건강한, 활기찬",
+      "pos": "な형용사"
+    },
+    {
+      "kana": "ご",
+      "kanji": "五",
+      "meaning": "5, 다섯",
+      "pos": "수사"
+    },
+    {
+      "kana": "こうえん",
+      "kanji": "公園",
+      "meaning": "공원",
+      "pos": "명사"
+    },
+    {
+      "kana": "こうちゃ",
+      "kanji": "紅茶",
+      "meaning": "홍차",
+      "pos": "명사"
+    },
+    {
+      "kana": "こうばん",
+      "kanji": "交番",
+      "meaning": "파출소",
+      "pos": "명사"
+    },
+    {
+      "kana": "こえ",
+      "kanji": "声",
+      "meaning": "목소리",
+      "pos": "명사"
+    },
+    {
+      "kana": "ごがつ",
+      "kanji": "五月",
+      "meaning": "5월",
+      "pos": "명사"
+    },
+    {
+      "kana": "ここ",
+      "kanji": null,
+      "meaning": "여기",
+      "pos": "대명사"
+    },
+    {
+      "kana": "ごご",
+      "kanji": "午後",
+      "meaning": "오후",
+      "pos": "명사"
+    },
+    {
+      "kana": "ここのか",
+      "kanji": "九日",
+      "meaning": "9일",
+      "pos": "명사"
+    },
+    {
+      "kana": "ここのつ",
+      "kanji": "九つ",
+      "meaning": "아홉",
+      "pos": "수사"
+    },
+    {
+      "kana": "ごじ",
+      "kanji": "五時",
+      "meaning": "5시",
+      "pos": "명사"
+    },
+    {
+      "kana": "ごぜん",
+      "kanji": "午前",
+      "meaning": "오전",
+      "pos": "명사"
+    },
+    {
+      "kana": "こたえる",
+      "kanji": "答える",
+      "meaning": "대답하다",
+      "pos": "동사"
+    },
+    {
+      "kana": "ごちそうさまでした",
+      "kanji": null,
+      "meaning": "잘 먹었습니다",
+      "pos": "인사"
+    },
+    {
+      "kana": "こちら",
+      "kanji": null,
+      "meaning": "이쪽",
+      "pos": "대명사"
+    },
+    {
+      "kana": "こちらこそ",
+      "kanji": null,
+      "meaning": "저야말로",
+      "pos": "인사"
+    },
+    {
+      "kana": "こと",
+      "kanji": "事",
+      "meaning": "것, 일",
+      "pos": "명사"
+    },
+    {
+      "kana": "ことし",
+      "kanji": "今年",
+      "meaning": "올해",
+      "pos": "명사"
+    },
+    {
+      "kana": "こども",
+      "kanji": "子供",
+      "meaning": "아이, 어린이",
+      "pos": "명사"
+    },
+    {
+      "kana": "ごにん",
+      "kanji": "五人",
+      "meaning": "5명",
+      "pos": "명사"
+    },
+    {
+      "kana": "ごねん",
+      "kanji": "五年",
+      "meaning": "5년",
+      "pos": "명사"
+    },
+    {
+      "kana": "この",
+      "kanji": null,
+      "meaning": "이",
+      "pos": "연체사"
+    },
+    {
+      "kana": "ごはん",
+      "kanji": "御飯",
+      "meaning": "밥",
+      "pos": "명사"
+    },
+    {
+      "kana": "ごふん",
+      "kanji": "五分",
+      "meaning": "5분",
+      "pos": "명사"
+    },
+    {
+      "kana": "こまる",
+      "kanji": "困る",
+      "meaning": "곤란하다, 난처하다",
+      "pos": "동사"
+    },
+    {
+      "kana": "ごめんなさい",
+      "kanji": null,
+      "meaning": "미안합니다",
+      "pos": "인사"
+    },
+    {
+      "kana": "これ",
+      "kanji": "これ",
+      "meaning": "이것",
+      "pos": "대명사"
+    },
+    {
+      "kana": "こんげつ",
+      "kanji": "今月",
+      "meaning": "이번 달",
+      "pos": "명사"
+    },
+    {
+      "kana": "こんしゅう",
+      "kanji": "今週",
+      "meaning": "이번 주",
+      "pos": "명사"
+    },
+    {
+      "kana": "こんな",
+      "kanji": "こんな",
+      "meaning": "이런",
+      "pos": "연체사"
+    },
+    {
+      "kana": "こんにちは",
+      "kanji": null,
+      "meaning": "안녕하세요 (낮 인사)",
+      "pos": "인사"
+    },
+    {
+      "kana": "こんばん",
+      "kanji": "今晩",
+      "meaning": "오늘 밤",
+      "pos": "명사"
+    },
+    {
+      "kana": "こんばんは",
+      "kanji": null,
+      "meaning": "안녕하세요 (저녁 인사)",
+      "pos": "인사"
+    },
+    {
+      "kana": "さいふ",
+      "kanji": "財布",
+      "meaning": "지갑",
+      "pos": "명사"
+    },
+    {
+      "kana": "さかな",
+      "kanji": "魚",
+      "meaning": "물고기, 생선",
+      "pos": "명사"
+    },
+    {
+      "kana": "さき",
+      "kanji": "先",
+      "meaning": "앞, 먼저",
+      "pos": "명사"
+    },
+    {
+      "kana": "さく",
+      "kanji": "咲く",
+      "meaning": "(꽃이) 피다",
+      "pos": "동사"
+    },
+    {
+      "kana": "さくぶん",
+      "kanji": "作文",
+      "meaning": "작문",
+      "pos": "명사"
+    },
+    {
+      "kana": "ざっし",
+      "kanji": "雑誌",
+      "meaning": "잡지",
+      "pos": "명사"
+    },
+    {
+      "kana": "さむい",
+      "kanji": "寒い",
+      "meaning": "춥다",
+      "pos": "い형용사"
+    },
+    {
+      "kana": "さようなら",
+      "kanji": null,
+      "meaning": "안녕히 가세요",
+      "pos": "인사"
+    },
+    {
+      "kana": "さん",
+      "kanji": "三",
+      "meaning": "3, 셋",
+      "pos": "수사"
+    },
+    {
+      "kana": "さんがつ",
+      "kanji": "三月",
+      "meaning": "3월",
+      "pos": "명사"
+    },
+    {
+      "kana": "さんじ",
+      "kanji": "三時",
+      "meaning": "3시",
+      "pos": "명사"
+    },
+    {
+      "kana": "さんじゅういちにち",
+      "kanji": "三十一日",
+      "meaning": "31일",
+      "pos": "명사"
+    },
+    {
+      "kana": "さんじゅうにち",
+      "kanji": "三十日",
+      "meaning": "30일",
+      "pos": "명사"
+    },
+    {
+      "kana": "さんにん",
+      "kanji": "三人",
+      "meaning": "3명",
+      "pos": "명사"
+    },
+    {
+      "kana": "さんねん",
+      "kanji": "三年",
+      "meaning": "3년",
+      "pos": "명사"
+    },
+    {
+      "kana": "さんぷん",
+      "kanji": "三分",
+      "meaning": "3분",
+      "pos": "명사"
+    },
+    {
+      "kana": "さんぽ",
+      "kanji": "散歩",
+      "meaning": "산책",
+      "pos": "명사"
+    },
+    {
+      "kana": "し",
+      "kanji": "四",
+      "meaning": "4, 넷",
+      "pos": "수사"
+    },
+    {
+      "kana": "しお",
+      "kanji": "塩",
+      "meaning": "소금",
+      "pos": "명사"
+    },
+    {
+      "kana": "しがつ",
+      "kanji": "四月",
+      "meaning": "4월",
+      "pos": "명사"
+    },
+    {
+      "kana": "じかん",
+      "kanji": "時間",
+      "meaning": "시간",
+      "pos": "명사"
+    },
+    {
+      "kana": "しごと",
+      "kanji": "仕事",
+      "meaning": "일, 업무",
+      "pos": "명사"
+    },
+    {
+      "kana": "じしょ",
+      "kanji": "辞書",
+      "meaning": "사전",
+      "pos": "명사"
+    },
+    {
+      "kana": "しずかな",
+      "kanji": "静かな",
+      "meaning": "조용한",
+      "pos": "な형용사"
+    },
+    {
+      "kana": "した",
+      "kanji": "下",
+      "meaning": "아래, 밑",
+      "pos": "명사"
+    },
+    {
+      "kana": "しち",
+      "kanji": "七",
+      "meaning": "7, 일곱",
+      "pos": "수사"
+    },
+    {
+      "kana": "しちがつ",
+      "kanji": "七月",
+      "meaning": "7월",
+      "pos": "명사"
+    },
+    {
+      "kana": "しちじ",
+      "kanji": "七時",
+      "meaning": "7시",
+      "pos": "명사"
+    },
+    {
+      "kana": "しちにん",
+      "kanji": "七人",
+      "meaning": "7명",
+      "pos": "명사"
+    },
+    {
+      "kana": "しちねん",
+      "kanji": "七年",
+      "meaning": "7년",
+      "pos": "명사"
+    },
+    {
+      "kana": "しちふん",
+      "kanji": "七分",
+      "meaning": "7분",
+      "pos": "명사"
+    },
+    {
+      "kana": "しぬ",
+      "kanji": "死ぬ",
+      "meaning": "죽다",
+      "pos": "동사"
+    },
+    {
+      "kana": "しまる",
+      "kanji": "閉まる",
+      "meaning": "닫히다",
+      "pos": "동사"
+    },
+    {
+      "kana": "しめる",
+      "kanji": "閉める",
+      "meaning": "닫다",
+      "pos": "동사"
+    },
+    {
+      "kana": "しゃしん",
+      "kanji": "写真",
+      "meaning": "사진",
+      "pos": "명사"
+    },
+    {
+      "kana": "じゅう",
+      "kanji": "十",
+      "meaning": "10, 열",
+      "pos": "수사"
+    },
+    {
+      "kana": "じゅういちがつ",
+      "kanji": "十一月",
+      "meaning": "11월",
+      "pos": "명사"
+    },
+    {
+      "kana": "じゅういちじ",
+      "kanji": "十一時",
+      "meaning": "11시",
+      "pos": "명사"
+    },
+    {
+      "kana": "じゅういちにち",
+      "kanji": "十一日",
+      "meaning": "11일",
+      "pos": "명사"
+    },
+    {
+      "kana": "じゅうがつ",
+      "kanji": "十月",
+      "meaning": "10월",
+      "pos": "명사"
+    },
+    {
+      "kana": "じゅうくにち",
+      "kanji": "十九日",
+      "meaning": "19일",
+      "pos": "명사"
+    },
+    {
+      "kana": "じゅうごにち",
+      "kanji": "十五日",
+      "meaning": "15일",
+      "pos": "명사"
+    },
+    {
+      "kana": "じゅうさんにち",
+      "kanji": "十三日",
+      "meaning": "13일",
+      "pos": "명사"
+    },
+    {
+      "kana": "じゅうじ",
+      "kanji": "十時",
+      "meaning": "10시",
+      "pos": "명사"
+    },
+    {
+      "kana": "じゅうしちにち",
+      "kanji": "十七日",
+      "meaning": "17일",
+      "pos": "명사"
+    },
+    {
+      "kana": "じゅうにがつ",
+      "kanji": "十二月",
+      "meaning": "12월",
+      "pos": "명사"
+    },
+    {
+      "kana": "じゅうにじ",
+      "kanji": "十二時",
+      "meaning": "12시",
+      "pos": "명사"
+    },
+    {
+      "kana": "じゅうににち",
+      "kanji": "十二日",
+      "meaning": "12일",
+      "pos": "명사"
+    },
+    {
+      "kana": "じゅうにん",
+      "kanji": "十人",
+      "meaning": "10명",
+      "pos": "명사"
+    },
+    {
+      "kana": "じゅうねん",
+      "kanji": "十年",
+      "meaning": "10년",
+      "pos": "명사"
+    },
+    {
+      "kana": "じゅうはちにち",
+      "kanji": "十八日",
+      "meaning": "18일",
+      "pos": "명사"
+    },
+    {
+      "kana": "じゅうよっか",
+      "kanji": "十四日",
+      "meaning": "14일",
+      "pos": "명사"
+    },
+    {
+      "kana": "じゅうろくにち",
+      "kanji": "十六日",
+      "meaning": "16일",
+      "pos": "명사"
+    },
+    {
+      "kana": "じゅぎょう",
+      "kanji": "授業",
+      "meaning": "수업",
+      "pos": "명사"
+    },
+    {
+      "kana": "しゅくだい",
+      "kanji": "宿題",
+      "meaning": "숙제",
+      "pos": "명사"
+    },
+    {
+      "kana": "じゅっぷん",
+      "kanji": "十分",
+      "meaning": "10분",
+      "pos": "명사"
+    },
+    {
+      "kana": "じょうずな",
+      "kanji": "上手な",
+      "meaning": "능숙한, 잘하는",
+      "pos": "な형용사"
+    },
+    {
+      "kana": "じょうぶな",
+      "kanji": "丈夫な",
+      "meaning": "튼튼한",
+      "pos": "な형용사"
+    },
+    {
+      "kana": "しょくどう",
+      "kanji": "食堂",
+      "meaning": "식당",
+      "pos": "명사"
+    },
+    {
+      "kana": "しる",
+      "kanji": "知る",
+      "meaning": "알다",
+      "pos": "동사"
+    },
+    {
+      "kana": "しろい",
+      "kanji": "白い",
+      "meaning": "하얗다, 희다",
+      "pos": "い형용사"
+    },
+    {
+      "kana": "しんぶん",
+      "kanji": "新聞",
+      "meaning": "신문",
+      "pos": "명사"
+    },
+    {
+      "kana": "すいようび",
+      "kanji": "水曜日",
+      "meaning": "수요일",
+      "pos": "명사"
+    },
+    {
+      "kana": "すう",
+      "kanji": "吸う",
+      "meaning": "(담배를) 피우다, 들이마시다",
+      "pos": "동사"
+    },
+    {
+      "kana": "すきな",
+      "kanji": "好きな",
+      "meaning": "좋아하는",
+      "pos": "な형용사"
+    },
+    {
+      "kana": "すぐ",
+      "kanji": "すぐ",
+      "meaning": "곧, 금방",
+      "pos": "부사"
+    },
+    {
+      "kana": "すくない",
+      "kanji": "少ない",
+      "meaning": "적다",
+      "pos": "い형용사"
+    },
+    {
+      "kana": "すこし",
+      "kanji": "少し",
+      "meaning": "조금, 약간",
+      "pos": "부사"
+    },
+    {
+      "kana": "ずつ",
+      "kanji": "ずつ",
+      "meaning": "…씩",
+      "pos": "조사"
+    },
+    {
+      "kana": "すみません",
+      "kanji": null,
+      "meaning": "실례합니다, 죄송합니다",
+      "pos": "인사"
+    },
+    {
+      "kana": "すむ",
+      "kanji": "住む",
+      "meaning": "살다, 거주하다",
+      "pos": "동사"
+    },
+    {
+      "kana": "する",
+      "kanji": null,
+      "meaning": "하다",
+      "pos": "동사"
+    },
+    {
+      "kana": "すわる",
+      "kanji": "座る",
+      "meaning": "앉다",
+      "pos": "동사"
+    },
+    {
+      "kana": "せ",
+      "kanji": "背",
+      "meaning": "키",
+      "pos": "명사"
+    },
+    {
+      "kana": "せいと",
+      "kanji": "生徒",
+      "meaning": "(초중고) 학생",
+      "pos": "명사"
+    },
+    {
+      "kana": "せっけん",
+      "kanji": "石鹸",
+      "meaning": "비누",
+      "pos": "명사"
+    },
+    {
+      "kana": "せまい",
+      "kanji": "狭い",
+      "meaning": "좁다",
+      "pos": "い형용사"
+    },
+    {
+      "kana": "せん",
+      "kanji": "千",
+      "meaning": "천, 1000",
+      "pos": "수사"
+    },
+    {
+      "kana": "せんげつ",
+      "kanji": "先月",
+      "meaning": "지난달",
+      "pos": "명사"
+    },
+    {
+      "kana": "せんしゅう",
+      "kanji": "先週",
+      "meaning": "지난주",
+      "pos": "명사"
+    },
+    {
+      "kana": "せんせい",
+      "kanji": "先生",
+      "meaning": "선생님",
+      "pos": "명사"
+    },
+    {
+      "kana": "せんたく",
+      "kanji": "洗濯",
+      "meaning": "세탁, 빨래",
+      "pos": "명사"
+    },
+    {
+      "kana": "そこ",
+      "kanji": null,
+      "meaning": "거기",
+      "pos": "대명사"
+    },
+    {
+      "kana": "そちら",
+      "kanji": null,
+      "meaning": "그쪽",
+      "pos": "대명사"
+    },
+    {
+      "kana": "そと",
+      "kanji": "外",
+      "meaning": "밖, 바깥",
+      "pos": "명사"
+    },
+    {
+      "kana": "その",
+      "kanji": null,
+      "meaning": "그",
+      "pos": "연체사"
+    },
+    {
+      "kana": "そば",
+      "kanji": "側",
+      "meaning": "옆, 곁",
+      "pos": "명사"
+    },
+    {
+      "kana": "そば",
+      "kanji": null,
+      "meaning": "메밀국수, 소바",
+      "pos": "명사"
+    },
+    {
+      "kana": "そら",
+      "kanji": "空",
+      "meaning": "하늘",
+      "pos": "명사"
+    },
+    {
+      "kana": "それ",
+      "kanji": null,
+      "meaning": "그것",
+      "pos": "대명사"
+    },
+    {
+      "kana": "そんな",
+      "kanji": "そんな",
+      "meaning": "그런",
+      "pos": "연체사"
+    },
+    {
+      "kana": "だいがく",
+      "kanji": "大学",
+      "meaning": "대학, 대학교",
+      "pos": "명사"
+    },
+    {
+      "kana": "だいじょうぶだ",
+      "kanji": "大丈夫だ",
+      "meaning": "괜찮다",
+      "pos": "な형용사"
+    },
+    {
+      "kana": "だいすきな",
+      "kanji": "大好きな",
+      "meaning": "아주 좋아하는",
+      "pos": "な형용사"
+    },
+    {
+      "kana": "だいどころ",
+      "kanji": "台所",
+      "meaning": "부엌",
+      "pos": "명사"
+    },
+    {
+      "kana": "たいへん",
+      "kanji": "大変",
+      "meaning": "매우, 대단히",
+      "pos": "부사"
+    },
+    {
+      "kana": "たいへんな",
+      "kanji": "大変な",
+      "meaning": "힘든, 큰일인",
+      "pos": "な형용사"
+    },
+    {
+      "kana": "たかい",
+      "kanji": "高い",
+      "meaning": "높다, 비싸다",
+      "pos": "い형용사"
+    },
+    {
+      "kana": "たくさん",
+      "kanji": null,
+      "meaning": "많이, 잔뜩",
+      "pos": "부사"
+    },
+    {
+      "kana": "だけ",
+      "kanji": null,
+      "meaning": "…만, …뿐",
+      "pos": "조사"
+    },
+    {
+      "kana": "だす",
+      "kanji": "出す",
+      "meaning": "내다, 꺼내다",
+      "pos": "동사"
+    },
+    {
+      "kana": "たつ",
+      "kanji": "立つ",
+      "meaning": "서다, 일어서다",
+      "pos": "동사"
+    },
+    {
+      "kana": "たてもの",
+      "kanji": "建物",
+      "meaning": "건물",
+      "pos": "명사"
+    },
+    {
+      "kana": "たのしい",
+      "kanji": "楽しい",
+      "meaning": "즐겁다",
+      "pos": "い형용사"
+    },
+    {
+      "kana": "たべもの",
+      "kanji": "食べ物",
+      "meaning": "음식, 먹을 것",
+      "pos": "명사"
+    },
+    {
+      "kana": "たべる",
+      "kanji": "食べる",
+      "meaning": "먹다",
+      "pos": "동사"
+    },
+    {
+      "kana": "たまご",
+      "kanji": "卵",
+      "meaning": "달걀, 계란",
+      "pos": "명사"
+    },
+    {
+      "kana": "だれ",
+      "kanji": "誰",
+      "meaning": "누구",
+      "pos": "의문사"
+    },
+    {
+      "kana": "たんじょうび",
+      "kanji": "誕生日",
+      "meaning": "생일",
+      "pos": "명사"
+    },
+    {
+      "kana": "だんだん",
+      "kanji": "段々",
+      "meaning": "점점, 차차",
+      "pos": "부사"
+    },
+    {
+      "kana": "ちいさい",
+      "kanji": "小さい",
+      "meaning": "작다",
+      "pos": "い형용사"
+    },
+    {
+      "kana": "ちいさな",
+      "kanji": "小さな",
+      "meaning": "작은",
+      "pos": "연체사"
+    },
+    {
+      "kana": "ちかい",
+      "kanji": "近い",
+      "meaning": "가깝다",
+      "pos": "い형용사"
+    },
+    {
+      "kana": "ちがう",
+      "kanji": "違う",
+      "meaning": "다르다, 틀리다",
+      "pos": "동사"
+    },
+    {
+      "kana": "ちかく",
+      "kanji": "近く",
+      "meaning": "근처, 가까운 곳",
+      "pos": "명사"
+    },
+    {
+      "kana": "ちかてつ",
+      "kanji": "地下鉄",
+      "meaning": "지하철",
+      "pos": "명사"
+    },
+    {
+      "kana": "ちち",
+      "kanji": "父",
+      "meaning": "(나의) 아버지",
+      "pos": "명사"
+    },
+    {
+      "kana": "ちゃ",
+      "kanji": "茶",
+      "meaning": "차",
+      "pos": "명사"
+    },
+    {
+      "kana": "ちょっと",
+      "kanji": "ちょっと",
+      "meaning": "잠깐, 조금",
+      "pos": "부사"
+    },
+    {
+      "kana": "ついたち",
+      "kanji": "一日",
+      "meaning": "1일 (날짜)",
+      "pos": "명사"
+    },
+    {
+      "kana": "つかう",
+      "kanji": "使う",
+      "meaning": "쓰다, 사용하다",
+      "pos": "동사"
+    },
+    {
+      "kana": "つぎ",
+      "kanji": "次",
+      "meaning": "다음",
+      "pos": "명사"
+    },
+    {
+      "kana": "つく",
+      "kanji": "着く",
+      "meaning": "도착하다",
+      "pos": "동사"
+    },
+    {
+      "kana": "つくえ",
+      "kanji": "机",
+      "meaning": "책상",
+      "pos": "명사"
+    },
+    {
+      "kana": "つくる",
+      "kanji": "作る",
+      "meaning": "만들다",
+      "pos": "동사"
+    },
+    {
+      "kana": "つよい",
+      "kanji": "強い",
+      "meaning": "강하다, 세다",
+      "pos": "い형용사"
+    },
+    {
+      "kana": "て",
+      "kanji": "手",
+      "meaning": "손",
+      "pos": "명사"
+    },
+    {
+      "kana": "てがみ",
+      "kanji": "手紙",
+      "meaning": "편지",
+      "pos": "명사"
+    },
+    {
+      "kana": "でぐち",
+      "kanji": "出口",
+      "meaning": "출구",
+      "pos": "명사"
+    },
+    {
+      "kana": "でも",
+      "kanji": null,
+      "meaning": "하지만, …라도",
+      "pos": "접속사"
+    },
+    {
+      "kana": "でる",
+      "kanji": "出る",
+      "meaning": "나가다, 나오다",
+      "pos": "동사"
+    },
+    {
+      "kana": "てんき",
+      "kanji": "天気",
+      "meaning": "날씨",
+      "pos": "명사"
+    },
+    {
+      "kana": "でんき",
+      "kanji": "電気",
+      "meaning": "전기, 전등",
+      "pos": "명사"
+    },
+    {
+      "kana": "でんしゃ",
+      "kanji": "電車",
+      "meaning": "전철",
+      "pos": "명사"
+    },
+    {
+      "kana": "でんわ",
+      "kanji": "電話",
+      "meaning": "전화",
+      "pos": "명사"
+    },
+    {
+      "kana": "どう",
+      "kanji": null,
+      "meaning": "어떻게",
+      "pos": "의문사"
+    },
+    {
+      "kana": "どういたしまして",
+      "kanji": null,
+      "meaning": "천만에요",
+      "pos": "인사"
+    },
+    {
+      "kana": "とうきょう",
+      "kanji": "東京",
+      "meaning": "도쿄 (일본의 수도)",
+      "pos": "명사"
+    },
+    {
+      "kana": "どうして",
+      "kanji": "どうして",
+      "meaning": "왜, 어째서",
+      "pos": "의문사"
+    },
+    {
+      "kana": "どうぞ",
+      "kanji": null,
+      "meaning": "부디, 자 (권유)",
+      "pos": "부사"
+    },
+    {
+      "kana": "どうぶつ",
+      "kanji": "動物",
+      "meaning": "동물",
+      "pos": "명사"
+    },
+    {
+      "kana": "どうも",
+      "kanji": null,
+      "meaning": "정말 (고마워요), 참",
+      "pos": "부사"
+    },
+    {
+      "kana": "とお",
+      "kanji": "十",
+      "meaning": "열",
+      "pos": "수사"
+    },
+    {
+      "kana": "とおい",
+      "kanji": "遠い",
+      "meaning": "멀다",
+      "pos": "い형용사"
+    },
+    {
+      "kana": "とおか",
+      "kanji": "十日",
+      "meaning": "10일",
+      "pos": "명사"
+    },
+    {
+      "kana": "とおく",
+      "kanji": "遠く",
+      "meaning": "멀리, 먼 곳",
+      "pos": "명사"
+    },
+    {
+      "kana": "とき",
+      "kanji": "時",
+      "meaning": "때, 시기",
+      "pos": "명사"
+    },
+    {
+      "kana": "ときどき",
+      "kanji": "時々",
+      "meaning": "가끔, 때때로",
+      "pos": "부사"
+    },
+    {
+      "kana": "とけい",
+      "kanji": "時計",
+      "meaning": "시계",
+      "pos": "명사"
+    },
+    {
+      "kana": "どこ",
+      "kanji": "どこ",
+      "meaning": "어디",
+      "pos": "의문사"
+    },
+    {
+      "kana": "ところ",
+      "kanji": "所",
+      "meaning": "곳, 장소",
+      "pos": "명사"
+    },
+    {
+      "kana": "とし",
+      "kanji": "年",
+      "meaning": "해, 나이",
+      "pos": "명사"
+    },
+    {
+      "kana": "としょかん",
+      "kanji": "図書館",
+      "meaning": "도서관",
+      "pos": "명사"
+    },
+    {
+      "kana": "どちら",
+      "kanji": null,
+      "meaning": "어느 쪽",
+      "pos": "의문사"
+    },
+    {
+      "kana": "とても",
+      "kanji": null,
+      "meaning": "매우, 아주",
+      "pos": "부사"
+    },
+    {
+      "kana": "どなた",
+      "kanji": "どなた",
+      "meaning": "어느 분, 누구",
+      "pos": "의문사"
+    },
+    {
+      "kana": "となり",
+      "kanji": "隣",
+      "meaning": "이웃, 옆",
+      "pos": "명사"
+    },
+    {
+      "kana": "どの",
+      "kanji": null,
+      "meaning": "어느",
+      "pos": "연체사"
+    },
+    {
+      "kana": "とぶ",
+      "kanji": "飛ぶ",
+      "meaning": "날다",
+      "pos": "동사"
+    },
+    {
+      "kana": "ともだち",
+      "kanji": "友達",
+      "meaning": "친구",
+      "pos": "명사"
+    },
+    {
+      "kana": "どようび",
+      "kanji": "土曜日",
+      "meaning": "토요일",
+      "pos": "명사"
+    },
+    {
+      "kana": "とり",
+      "kanji": "鳥",
+      "meaning": "새",
+      "pos": "명사"
+    },
+    {
+      "kana": "とりにく",
+      "kanji": "鳥肉",
+      "meaning": "닭고기",
+      "pos": "명사"
+    },
+    {
+      "kana": "とる",
+      "kanji": "撮る",
+      "meaning": "(사진을) 찍다",
+      "pos": "동사"
+    },
+    {
+      "kana": "どれ",
+      "kanji": null,
+      "meaning": "어느 것",
+      "pos": "의문사"
+    },
+    {
+      "kana": "どんな",
+      "kanji": null,
+      "meaning": "어떤",
+      "pos": "연체사"
+    },
+    {
+      "kana": "ない",
+      "kanji": null,
+      "meaning": "없다",
+      "pos": "い형용사"
+    },
+    {
+      "kana": "なか",
+      "kanji": "中",
+      "meaning": "안, 속, 가운데",
+      "pos": "명사"
+    },
+    {
+      "kana": "ながい",
+      "kanji": "長い",
+      "meaning": "길다",
+      "pos": "い형용사"
+    },
+    {
+      "kana": "なぜ",
+      "kanji": "なぜ",
+      "meaning": "왜, 어째서",
+      "pos": "의문사"
+    },
+    {
+      "kana": "なつ",
+      "kanji": "夏",
+      "meaning": "여름",
+      "pos": "명사"
+    },
+    {
+      "kana": "なつやすみ",
+      "kanji": "夏休み",
+      "meaning": "여름방학, 여름휴가",
+      "pos": "명사"
+    },
+    {
+      "kana": "なな",
+      "kanji": "七",
+      "meaning": "7, 일곱",
+      "pos": "수사"
+    },
+    {
+      "kana": "ななつ",
+      "kanji": "七つ",
+      "meaning": "일곱",
+      "pos": "수사"
+    },
+    {
+      "kana": "ななにん",
+      "kanji": "七人",
+      "meaning": "7명",
+      "pos": "명사"
+    },
+    {
+      "kana": "ななねん",
+      "kanji": "七年",
+      "meaning": "7년",
+      "pos": "명사"
+    },
+    {
+      "kana": "ななふん",
+      "kanji": "七分",
+      "meaning": "7분",
+      "pos": "명사"
+    },
+    {
+      "kana": "なに",
+      "kanji": "何",
+      "meaning": "무엇",
+      "pos": "의문사"
+    },
+    {
+      "kana": "なのか",
+      "kanji": "七日",
+      "meaning": "7일",
+      "pos": "명사"
+    },
+    {
+      "kana": "なまえ",
+      "kanji": "名前",
+      "meaning": "이름",
+      "pos": "명사"
+    },
+    {
+      "kana": "ならう",
+      "kanji": "習う",
+      "meaning": "배우다",
+      "pos": "동사"
+    },
+    {
+      "kana": "なん",
+      "kanji": "何",
+      "meaning": "몇, 무슨",
+      "pos": "의문사"
+    },
+    {
+      "kana": "なんかい",
+      "kanji": "何回",
+      "meaning": "몇 번, 몇 회",
+      "pos": "의문사"
+    },
+    {
+      "kana": "なんがい",
+      "kanji": "何階",
+      "meaning": "몇 층",
+      "pos": "의문사"
+    },
+    {
+      "kana": "なんがつ",
+      "kanji": "何月",
+      "meaning": "몇 월",
+      "pos": "의문사"
+    },
+    {
+      "kana": "なんこ",
+      "kanji": "何個",
+      "meaning": "몇 개",
+      "pos": "의문사"
+    },
+    {
+      "kana": "なんじ",
+      "kanji": "何時",
+      "meaning": "몇 시",
+      "pos": "의문사"
+    },
+    {
+      "kana": "なんにち",
+      "kanji": "何日",
+      "meaning": "며칠",
+      "pos": "의문사"
+    },
+    {
+      "kana": "なんにん",
+      "kanji": "何人",
+      "meaning": "몇 명",
+      "pos": "의문사"
+    },
+    {
+      "kana": "なんねん",
+      "kanji": "何年",
+      "meaning": "몇 년",
+      "pos": "의문사"
+    },
+    {
+      "kana": "なんばい",
+      "kanji": "何杯",
+      "meaning": "몇 잔",
+      "pos": "의문사"
+    },
+    {
+      "kana": "なんばん",
+      "kanji": "何番",
+      "meaning": "몇 번 (번호)",
+      "pos": "의문사"
+    },
+    {
+      "kana": "なんぷん",
+      "kanji": "何分",
+      "meaning": "몇 분",
+      "pos": "의문사"
+    },
+    {
+      "kana": "なんぼん",
+      "kanji": "何本",
+      "meaning": "몇 자루, 몇 병",
+      "pos": "의문사"
+    },
+    {
+      "kana": "なんまい",
+      "kanji": "何枚",
+      "meaning": "몇 장",
+      "pos": "의문사"
+    },
+    {
+      "kana": "なんようび",
+      "kanji": "何曜日",
+      "meaning": "무슨 요일",
+      "pos": "의문사"
+    },
+    {
+      "kana": "に",
+      "kanji": "二",
+      "meaning": "2, 둘",
+      "pos": "수사"
+    },
+    {
+      "kana": "にがつ",
+      "kanji": "二月",
+      "meaning": "2월",
+      "pos": "명사"
+    },
+    {
+      "kana": "にぎやか",
+      "kanji": "賑やか",
+      "meaning": "떠들썩하다, 활기차다, 번화하다",
+      "pos": "な형용사"
+    },
+    {
+      "kana": "にぎやかな",
+      "kanji": "賑やかな",
+      "meaning": "북적이는, 번화한",
+      "pos": "な형용사"
+    },
+    {
+      "kana": "にく",
+      "kanji": "肉",
+      "meaning": "고기",
+      "pos": "명사"
+    },
+    {
+      "kana": "にし",
+      "kanji": "西",
+      "meaning": "서쪽",
+      "pos": "명사"
+    },
+    {
+      "kana": "にじ",
+      "kanji": "二時",
+      "meaning": "2시",
+      "pos": "명사"
+    },
+    {
+      "kana": "にじゅういちにち",
+      "kanji": "二十一日",
+      "meaning": "21일",
+      "pos": "명사"
+    },
+    {
+      "kana": "にじゅうくにち",
+      "kanji": "二十九日",
+      "meaning": "29일",
+      "pos": "명사"
+    },
+    {
+      "kana": "にじゅうごにち",
+      "kanji": "二十五日",
+      "meaning": "25일",
+      "pos": "명사"
+    },
+    {
+      "kana": "にじゅうさんにち",
+      "kanji": "二十三日",
+      "meaning": "23일",
+      "pos": "명사"
+    },
+    {
+      "kana": "にじゅうしちにち",
+      "kanji": "二十七日",
+      "meaning": "27일",
+      "pos": "명사"
+    },
+    {
+      "kana": "にじゅうににち",
+      "kanji": "二十二日",
+      "meaning": "22일",
+      "pos": "명사"
+    },
+    {
+      "kana": "にじゅうはちにち",
+      "kanji": "二十八日",
+      "meaning": "28일",
+      "pos": "명사"
+    },
+    {
+      "kana": "にじゅうよっか",
+      "kanji": "二十四日",
+      "meaning": "24일",
+      "pos": "명사"
+    },
+    {
+      "kana": "にじゅうろくにち",
+      "kanji": "二十六日",
+      "meaning": "26일",
+      "pos": "명사"
+    },
+    {
+      "kana": "にちようび",
+      "kanji": "日曜日",
+      "meaning": "일요일",
+      "pos": "명사"
+    },
+    {
+      "kana": "にねん",
+      "kanji": "二年",
+      "meaning": "2년",
+      "pos": "명사"
+    },
+    {
+      "kana": "にふん",
+      "kanji": "二分",
+      "meaning": "2분",
+      "pos": "명사"
+    },
+    {
+      "kana": "にほん",
+      "kanji": "日本",
+      "meaning": "일본",
+      "pos": "명사"
+    },
+    {
+      "kana": "にほんじん",
+      "kanji": "日本人",
+      "meaning": "일본인",
+      "pos": "명사"
+    },
+    {
+      "kana": "にわ",
+      "kanji": "庭",
+      "meaning": "정원, 마당",
+      "pos": "명사"
+    },
+    {
+      "kana": "ぬぐ",
+      "kanji": "脱ぐ",
+      "meaning": "벗다",
+      "pos": "동사"
+    },
+    {
+      "kana": "ねこ",
+      "kanji": "猫",
+      "meaning": "고양이",
+      "pos": "명사"
+    },
+    {
+      "kana": "ねる",
+      "kanji": "寝る",
+      "meaning": "자다",
+      "pos": "동사"
+    },
+    {
+      "kana": "のぼる",
+      "kanji": "登る",
+      "meaning": "올라가다, 오르다",
+      "pos": "동사"
+    },
+    {
+      "kana": "のみもの",
+      "kanji": "飲み物",
+      "meaning": "음료, 마실 것",
+      "pos": "명사"
+    },
+    {
+      "kana": "のむ",
+      "kanji": "飲む",
+      "meaning": "마시다, (약을) 먹다",
+      "pos": "동사"
+    },
+    {
+      "kana": "のる",
+      "kanji": "乗る",
+      "meaning": "(탈것에) 타다",
+      "pos": "동사"
+    },
+    {
+      "kana": "はい",
+      "kanji": null,
+      "meaning": "네, 예",
+      "pos": "감탄사"
+    },
+    {
+      "kana": "はいる",
+      "kanji": "入る",
+      "meaning": "들어가다, 들어오다",
+      "pos": "동사"
+    },
+    {
+      "kana": "はがき",
+      "kanji": "葉書",
+      "meaning": "엽서",
+      "pos": "명사"
+    },
+    {
+      "kana": "はじまる",
+      "kanji": "始まる",
+      "meaning": "시작되다",
+      "pos": "동사"
+    },
+    {
+      "kana": "はじめまして",
+      "kanji": "初めまして",
+      "meaning": "처음 뵙겠습니다",
+      "pos": "인사"
+    },
+    {
+      "kana": "はたち",
+      "kanji": "二十歳",
+      "meaning": "스무 살",
+      "pos": "명사"
+    },
+    {
+      "kana": "はち",
+      "kanji": "八",
+      "meaning": "8, 여덟",
+      "pos": "수사"
+    },
+    {
+      "kana": "はちがつ",
+      "kanji": "八月",
+      "meaning": "8월",
+      "pos": "명사"
+    },
+    {
+      "kana": "はちじ",
+      "kanji": "八時",
+      "meaning": "8시",
+      "pos": "명사"
+    },
+    {
+      "kana": "はちにん",
+      "kanji": "八人",
+      "meaning": "8명",
+      "pos": "명사"
+    },
+    {
+      "kana": "はちねん",
+      "kanji": "八年",
+      "meaning": "8년",
+      "pos": "명사"
+    },
+    {
+      "kana": "はちふん",
+      "kanji": "八分",
+      "meaning": "8분",
+      "pos": "명사"
+    },
+    {
+      "kana": "はつか",
+      "kanji": "二十日",
+      "meaning": "20일",
+      "pos": "명사"
+    },
+    {
+      "kana": "はっぷん",
+      "kanji": "八分",
+      "meaning": "8분",
+      "pos": "명사"
+    },
+    {
+      "kana": "はな",
+      "kanji": "鼻",
+      "meaning": "코",
+      "pos": "명사"
+    },
+    {
+      "kana": "はな",
+      "kanji": "花",
+      "meaning": "꽃",
+      "pos": "명사"
+    },
+    {
+      "kana": "はなし",
+      "kanji": "話",
+      "meaning": "이야기, 말",
+      "pos": "명사"
+    },
+    {
+      "kana": "はなす",
+      "kanji": "話す",
+      "meaning": "이야기하다, 말하다",
+      "pos": "동사"
+    },
+    {
+      "kana": "はは",
+      "kanji": "母",
+      "meaning": "(나의) 어머니",
+      "pos": "명사"
+    },
+    {
+      "kana": "はやい",
+      "kanji": "速い",
+      "meaning": "빠르다",
+      "pos": "い형용사"
+    },
+    {
+      "kana": "はやい",
+      "kanji": "早い",
+      "meaning": "이르다",
+      "pos": "い형용사"
+    },
+    {
+      "kana": "はる",
+      "kanji": "春",
+      "meaning": "봄",
+      "pos": "명사"
+    },
+    {
+      "kana": "ばんごう",
+      "kanji": "番号",
+      "meaning": "번호",
+      "pos": "명사"
+    },
+    {
+      "kana": "ばんごはん",
+      "kanji": "晩御飯",
+      "meaning": "저녁 식사",
+      "pos": "명사"
+    },
+    {
+      "kana": "ひがし",
+      "kanji": "東",
+      "meaning": "동쪽",
+      "pos": "명사"
+    },
+    {
+      "kana": "ひくい",
+      "kanji": "低い",
+      "meaning": "낮다",
+      "pos": "い형용사"
+    },
+    {
+      "kana": "ひこうき",
+      "kanji": "飛行機",
+      "meaning": "비행기",
+      "pos": "명사"
+    },
+    {
+      "kana": "ひと",
+      "kanji": "人",
+      "meaning": "사람",
+      "pos": "명사"
+    },
+    {
+      "kana": "ひとつ",
+      "kanji": "一つ",
+      "meaning": "하나",
+      "pos": "수사"
+    },
+    {
+      "kana": "ひとり",
+      "kanji": "一人",
+      "meaning": "한 사람, 혼자",
+      "pos": "명사"
+    },
+    {
+      "kana": "ひまな",
+      "kanji": "暇な",
+      "meaning": "한가한",
+      "pos": "な형용사"
+    },
+    {
+      "kana": "ひゃく",
+      "kanji": "百",
+      "meaning": "100, 백",
+      "pos": "수사"
+    },
+    {
+      "kana": "ひゃくてん",
+      "kanji": "百点",
+      "meaning": "100점",
+      "pos": "명사"
+    },
+    {
+      "kana": "びょういん",
+      "kanji": "病院",
+      "meaning": "병원",
+      "pos": "명사"
+    },
+    {
+      "kana": "びょうき",
+      "kanji": "病気",
+      "meaning": "병",
+      "pos": "명사"
+    },
+    {
+      "kana": "ひる",
+      "kanji": "昼",
+      "meaning": "낮, 점심때",
+      "pos": "명사"
+    },
+    {
+      "kana": "ひるごはん",
+      "kanji": "昼御飯",
+      "meaning": "점심",
+      "pos": "명사"
+    },
+    {
+      "kana": "ひろい",
+      "kanji": "広い",
+      "meaning": "넓다",
+      "pos": "い형용사"
+    },
+    {
+      "kana": "ふく",
+      "kanji": "服",
+      "meaning": "옷",
+      "pos": "명사"
+    },
+    {
+      "kana": "ふたつ",
+      "kanji": "二つ",
+      "meaning": "둘",
+      "pos": "수사"
+    },
+    {
+      "kana": "ふたり",
+      "kanji": "二人",
+      "meaning": "두 사람",
+      "pos": "명사"
+    },
+    {
+      "kana": "ふつか",
+      "kanji": "二日",
+      "meaning": "2일",
+      "pos": "명사"
+    },
+    {
+      "kana": "ふゆ",
+      "kanji": "冬",
+      "meaning": "겨울",
+      "pos": "명사"
+    },
+    {
+      "kana": "ふる",
+      "kanji": "降る",
+      "meaning": "(비, 눈이) 내리다",
+      "pos": "동사"
+    },
+    {
+      "kana": "ふるい",
+      "kanji": "古い",
+      "meaning": "오래되다, 낡다",
+      "pos": "い형용사"
+    },
+    {
+      "kana": "へや",
+      "kanji": "部屋",
+      "meaning": "방",
+      "pos": "명사"
+    },
+    {
+      "kana": "へん",
+      "kanji": "辺",
+      "meaning": "근처, 부근",
+      "pos": "명사"
+    },
+    {
+      "kana": "べんきょう",
+      "kanji": "勉強",
+      "meaning": "공부",
+      "pos": "명사"
+    },
+    {
+      "kana": "べんり",
+      "kanji": "便利",
+      "meaning": "편리함",
+      "pos": "な형용사"
+    },
+    {
+      "kana": "べんりな",
+      "kanji": "便利な",
+      "meaning": "편리한",
+      "pos": "な형용사"
+    },
+    {
+      "kana": "ほう",
+      "kanji": "方",
+      "meaning": "…쪽, …하는 편",
+      "pos": "명사"
+    },
+    {
+      "kana": "ぼうし",
+      "kanji": "帽子",
+      "meaning": "모자",
+      "pos": "명사"
+    },
+    {
+      "kana": "ほか",
+      "kanji": "外",
+      "meaning": "다른 것, 그 외",
+      "pos": "명사"
+    },
+    {
+      "kana": "ほん",
+      "kanji": "本",
+      "meaning": "책",
+      "pos": "명사"
+    },
+    {
+      "kana": "まいあさ",
+      "kanji": "毎朝",
+      "meaning": "매일 아침",
+      "pos": "명사"
+    },
+    {
+      "kana": "まいげつ",
+      "kanji": "毎月",
+      "meaning": "매월 (=まいつき)",
+      "pos": "명사"
+    },
+    {
+      "kana": "まいしゅう",
+      "kanji": "毎週",
+      "meaning": "매주",
+      "pos": "명사"
+    },
+    {
+      "kana": "まいにち",
+      "kanji": "毎日",
+      "meaning": "매일",
+      "pos": "명사"
+    },
+    {
+      "kana": "まいねん",
+      "kanji": "毎年",
+      "meaning": "매년 (=まいとし)",
+      "pos": "명사"
+    },
+    {
+      "kana": "まいばん",
+      "kanji": "毎晩",
+      "meaning": "매일 밤",
+      "pos": "명사"
+    },
+    {
+      "kana": "まえ",
+      "kanji": "前",
+      "meaning": "앞, 전",
+      "pos": "명사"
+    },
+    {
+      "kana": "まがる",
+      "kanji": "曲がる",
+      "meaning": "구부러지다, (방향을) 돌다",
+      "pos": "동사"
+    },
+    {
+      "kana": "まずい",
+      "kanji": null,
+      "meaning": "맛없다",
+      "pos": "い형용사"
+    },
+    {
+      "kana": "また",
+      "kanji": null,
+      "meaning": "또, 다시",
+      "pos": "부사"
+    },
+    {
+      "kana": "まだ",
+      "kanji": "まだ",
+      "meaning": "아직",
+      "pos": "부사"
+    },
+    {
+      "kana": "まち",
+      "kanji": "町",
+      "meaning": "동네, 마을",
+      "pos": "명사"
+    },
+    {
+      "kana": "まつ",
+      "kanji": "待つ",
+      "meaning": "기다리다",
+      "pos": "동사"
+    },
+    {
+      "kana": "まっすぐ",
+      "kanji": null,
+      "meaning": "똑바로, 곧장",
+      "pos": "부사"
+    },
+    {
+      "kana": "まど",
+      "kanji": "窓",
+      "meaning": "창문",
+      "pos": "명사"
+    },
+    {
+      "kana": "まるい",
+      "kanji": "丸い",
+      "meaning": "둥글다",
+      "pos": "い형용사"
+    },
+    {
+      "kana": "みがく",
+      "kanji": "磨く",
+      "meaning": "닦다",
+      "pos": "동사"
+    },
+    {
+      "kana": "みぎ",
+      "kanji": "右",
+      "meaning": "오른쪽",
+      "pos": "명사"
+    },
+    {
+      "kana": "みじかい",
+      "kanji": "短い",
+      "meaning": "짧다",
+      "pos": "い형용사"
+    },
+    {
+      "kana": "みず",
+      "kanji": "水",
+      "meaning": "물",
+      "pos": "명사"
+    },
+    {
+      "kana": "みせ",
+      "kanji": "店",
+      "meaning": "가게",
+      "pos": "명사"
+    },
+    {
+      "kana": "みせる",
+      "kanji": "見せる",
+      "meaning": "보여주다",
+      "pos": "동사"
+    },
+    {
+      "kana": "みち",
+      "kanji": "道",
+      "meaning": "길, 도로",
+      "pos": "명사"
+    },
+    {
+      "kana": "みっか",
+      "kanji": "三日",
+      "meaning": "3일",
+      "pos": "명사"
+    },
+    {
+      "kana": "みっつ",
+      "kanji": "三つ",
+      "meaning": "셋",
+      "pos": "수사"
+    },
+    {
+      "kana": "みどり",
+      "kanji": "緑",
+      "meaning": "초록, 녹색",
+      "pos": "명사"
+    },
+    {
+      "kana": "みなさん",
+      "kanji": "皆さん",
+      "meaning": "여러분",
+      "pos": "명사"
+    },
+    {
+      "kana": "みなみ",
+      "kanji": "南",
+      "meaning": "남쪽",
+      "pos": "명사"
+    },
+    {
+      "kana": "みみ",
+      "kanji": "耳",
+      "meaning": "귀",
+      "pos": "명사"
+    },
+    {
+      "kana": "みる",
+      "kanji": "見る",
+      "meaning": "보다",
+      "pos": "동사"
+    },
+    {
+      "kana": "みんな",
+      "kanji": "皆",
+      "meaning": "모두",
+      "pos": "명사"
+    },
+    {
+      "kana": "むいか",
+      "kanji": "六日",
+      "meaning": "6일",
+      "pos": "명사"
+    },
+    {
+      "kana": "むずかしい",
+      "kanji": "難しい",
+      "meaning": "어렵다",
+      "pos": "い형용사"
+    },
+    {
+      "kana": "むっつ",
+      "kanji": "六つ",
+      "meaning": "여섯",
+      "pos": "수사"
+    },
+    {
+      "kana": "め",
+      "kanji": "目",
+      "meaning": "눈",
+      "pos": "명사"
+    },
+    {
+      "kana": "めがね",
+      "kanji": "眼鏡",
+      "meaning": "안경",
+      "pos": "명사"
+    },
+    {
+      "kana": "もういちど",
+      "kanji": "もう一度",
+      "meaning": "한 번 더",
+      "pos": "부사"
+    },
+    {
+      "kana": "もくようび",
+      "kanji": "木曜日",
+      "meaning": "목요일",
+      "pos": "명사"
+    },
+    {
+      "kana": "もしもし",
+      "kanji": null,
+      "meaning": "여보세요",
+      "pos": "감탄사"
+    },
+    {
+      "kana": "もつ",
+      "kanji": "持つ",
+      "meaning": "들다, 가지다",
+      "pos": "동사"
+    },
+    {
+      "kana": "もっと",
+      "kanji": "もっと",
+      "meaning": "더, 더욱",
+      "pos": "부사"
+    },
+    {
+      "kana": "もの",
+      "kanji": "物",
+      "meaning": "것, 물건",
+      "pos": "명사"
+    },
+    {
+      "kana": "もん",
+      "kanji": "門",
+      "meaning": "문, 대문",
+      "pos": "명사"
+    },
+    {
+      "kana": "もんだい",
+      "kanji": "問題",
+      "meaning": "문제",
+      "pos": "명사"
+    },
+    {
+      "kana": "やおや",
+      "kanji": "八百屋",
+      "meaning": "채소 가게",
+      "pos": "명사"
+    },
+    {
+      "kana": "やさい",
+      "kanji": "野菜",
+      "meaning": "야채, 채소",
+      "pos": "명사"
+    },
+    {
+      "kana": "やすい",
+      "kanji": "安い",
+      "meaning": "싸다",
+      "pos": "い형용사"
+    },
+    {
+      "kana": "やすみ",
+      "kanji": "休み",
+      "meaning": "휴일, 휴가, 쉼",
+      "pos": "명사"
+    },
+    {
+      "kana": "やすむ",
+      "kanji": "休む",
+      "meaning": "쉬다",
+      "pos": "동사"
+    },
+    {
+      "kana": "やっつ",
+      "kanji": "八つ",
+      "meaning": "여덟",
+      "pos": "수사"
+    },
+    {
+      "kana": "やま",
+      "kanji": "山",
+      "meaning": "산",
+      "pos": "명사"
+    },
+    {
+      "kana": "ゆうがた",
+      "kanji": "夕方",
+      "meaning": "저녁때, 해질녘",
+      "pos": "명사"
+    },
+    {
+      "kana": "ゆうごはん",
+      "kanji": "夕御飯",
+      "meaning": "저녁밥",
+      "pos": "명사"
+    },
+    {
+      "kana": "ゆうはん",
+      "kanji": "夕飯",
+      "meaning": "저녁밥 (=ゆうごはん)",
+      "pos": "명사"
+    },
+    {
+      "kana": "ゆき",
+      "kanji": "雪",
+      "meaning": "눈",
+      "pos": "명사"
+    },
+    {
+      "kana": "ゆっくり",
+      "kanji": null,
+      "meaning": "천천히, 느긋하게",
+      "pos": "부사"
+    },
+    {
+      "kana": "よい",
+      "kanji": "良い",
+      "meaning": "좋다 (=いい)",
+      "pos": "い형용사"
+    },
+    {
+      "kana": "ようか",
+      "kanji": "八日",
+      "meaning": "8일",
+      "pos": "명사"
+    },
+    {
+      "kana": "ようふく",
+      "kanji": "洋服",
+      "meaning": "양복, 옷",
+      "pos": "명사"
+    },
+    {
+      "kana": "よこ",
+      "kanji": "横",
+      "meaning": "옆, 가로",
+      "pos": "명사"
+    },
+    {
+      "kana": "よじ",
+      "kanji": "四時",
+      "meaning": "4시",
+      "pos": "명사"
+    },
+    {
+      "kana": "よっか",
+      "kanji": "四日",
+      "meaning": "4일",
+      "pos": "명사"
+    },
+    {
+      "kana": "よっつ",
+      "kanji": "四つ",
+      "meaning": "넷",
+      "pos": "수사"
+    },
+    {
+      "kana": "よにん",
+      "kanji": "四人",
+      "meaning": "4명",
+      "pos": "명사"
+    },
+    {
+      "kana": "よねん",
+      "kanji": "四年",
+      "meaning": "4년",
+      "pos": "명사"
+    },
+    {
+      "kana": "よぶ",
+      "kanji": "呼ぶ",
+      "meaning": "부르다",
+      "pos": "동사"
+    },
+    {
+      "kana": "よむ",
+      "kanji": "読む",
+      "meaning": "읽다",
+      "pos": "동사"
+    },
+    {
+      "kana": "よる",
+      "kanji": "夜",
+      "meaning": "밤",
+      "pos": "명사"
+    },
+    {
+      "kana": "よわい",
+      "kanji": "弱い",
+      "meaning": "약하다",
+      "pos": "い형용사"
+    },
+    {
+      "kana": "よん",
+      "kanji": "四",
+      "meaning": "4, 넷",
+      "pos": "수사"
+    },
+    {
+      "kana": "よんぷん",
+      "kanji": "四分",
+      "meaning": "4분",
+      "pos": "명사"
+    },
+    {
+      "kana": "らいげつ",
+      "kanji": "来月",
+      "meaning": "다음 달",
+      "pos": "명사"
+    },
+    {
+      "kana": "らいしゅう",
+      "kanji": "来週",
+      "meaning": "다음 주",
+      "pos": "명사"
+    },
+    {
+      "kana": "らいねん",
+      "kanji": "来年",
+      "meaning": "내년",
+      "pos": "명사"
+    },
+    {
+      "kana": "りゅうがくせい",
+      "kanji": "留学生",
+      "meaning": "유학생",
+      "pos": "명사"
+    },
+    {
+      "kana": "りょうり",
+      "kanji": "料理",
+      "meaning": "요리",
+      "pos": "명사"
+    },
+    {
+      "kana": "ろく",
+      "kanji": "六",
+      "meaning": "6, 여섯",
+      "pos": "수사"
+    },
+    {
+      "kana": "ろくがつ",
+      "kanji": "六月",
+      "meaning": "6월",
+      "pos": "명사"
+    },
+    {
+      "kana": "ろくじ",
+      "kanji": "六時",
+      "meaning": "6시",
+      "pos": "명사"
+    },
+    {
+      "kana": "ろくにん",
+      "kanji": "六人",
+      "meaning": "6명",
+      "pos": "명사"
+    },
+    {
+      "kana": "ろくねん",
+      "kanji": "六年",
+      "meaning": "6년",
+      "pos": "명사"
+    },
+    {
+      "kana": "ろっぷん",
+      "kanji": "六分",
+      "meaning": "6분",
+      "pos": "명사"
+    },
+    {
+      "kana": "わかる",
+      "kanji": "分かる",
+      "meaning": "알다, 이해하다",
+      "pos": "동사"
+    },
+    {
+      "kana": "わたし",
+      "kanji": "私",
+      "meaning": "나, 저",
+      "pos": "대명사"
+    },
+    {
+      "kana": "わるい",
+      "kanji": "悪い",
+      "meaning": "나쁘다",
+      "pos": "い형용사"
+    },
+    {
+      "kana": "ふく",
+      "kanji": "吹く",
+      "meaning": "불다, (바람이) 불다",
+      "pos": "동사"
+    },
+    {
+      "kana": "きる",
+      "kanji": "着る",
+      "meaning": "입다",
+      "pos": "동사"
+    },
+    {
+      "kana": "みえる",
+      "kanji": "見える",
+      "meaning": "보이다",
+      "pos": "동사"
+    },
+    {
+      "kana": "かんがえる",
+      "kanji": "考える",
+      "meaning": "생각하다",
+      "pos": "동사"
+    },
+    {
+      "kana": "どこか",
+      "kanji": "どこか",
+      "meaning": "어딘가",
+      "pos": "대명사"
+    },
+    {
+      "kana": "とる",
+      "kanji": "取る",
+      "meaning": "집다, 잡다, (안경을) 벗다",
+      "pos": "동사"
+    },
+    {
+      "kana": "きる",
+      "kanji": "切る",
+      "meaning": "자르다, (관용) 抜手を切る = 누키데로 헤엄치다",
+      "pos": "동사"
+    },
+    {
+      "kana": "ふる",
+      "kanji": "振る",
+      "meaning": "흔들다",
+      "pos": "동사"
+    },
+    {
+      "kana": "もう",
+      "kanji": "もう",
+      "meaning": "이미, 벌써",
+      "pos": "부사"
+    },
+    {
+      "kana": "ひ",
+      "kanji": "日",
+      "meaning": "날, 하루",
+      "pos": "명사"
+    },
+    {
+      "kana": "いつでも",
+      "kanji": "いつでも",
+      "meaning": "언제나, 항상",
+      "pos": "부사"
+    },
+    {
+      "kana": "ありがとう",
+      "kanji": "有難う",
+      "meaning": "고맙습니다",
+      "pos": "인사"
+    },
+    {
+      "kana": "ええ",
+      "kanji": "ええ",
+      "meaning": "네, 예 (긍정의 응답)",
+      "pos": "감탄사"
+    },
+    {
+      "kana": "これから",
+      "kanji": "これから",
+      "meaning": "이제부터, 이로부터",
+      "pos": "부사"
+    },
+    {
+      "kana": "みっかめ",
+      "kanji": "三日目",
+      "meaning": "사흘째",
+      "pos": "명사"
+    },
+    {
+      "kana": "きみ",
+      "kanji": "君",
+      "meaning": "자네, 그대",
+      "pos": "대명사"
+    },
+    {
+      "kana": "ことば",
+      "kanji": "言葉",
+      "meaning": "말, 단어",
+      "pos": "명사"
+    },
+    {
+      "kana": "ばん",
+      "kanji": "晩",
+      "meaning": "밤, 저녁",
+      "pos": "명사"
+    },
+    {
+      "kana": "てら",
+      "kanji": "寺",
+      "meaning": "절",
+      "pos": "명사"
+    },
+    {
+      "kana": "さえ",
+      "kanji": "さえ",
+      "meaning": "~조차, ~마저",
+      "pos": "조사"
+    },
+    {
+      "kana": "つき",
+      "kanji": "月",
+      "meaning": "달, 월",
+      "pos": "명사"
+    },
+    {
+      "kana": "わかれる",
+      "kanji": "別れる",
+      "meaning": "헤어지다",
+      "pos": "동사"
+    },
+    {
+      "kana": "よく",
+      "kanji": "よく",
+      "meaning": "자주, 잘, 곧잘",
+      "pos": "부사"
+    },
+    {
+      "kana": "ち",
+      "kanji": "血",
+      "meaning": "피",
+      "pos": "명사"
+    },
+    {
+      "kana": "はたらく",
+      "kanji": "働く",
+      "meaning": "일하다; (힘·감정이) 작용하다",
+      "pos": "동사"
+    },
+    {
+      "kana": "はじめ",
+      "kanji": "始め",
+      "meaning": "시작, 처음",
+      "pos": "명사"
+    },
+    {
+      "kana": "はじめて",
+      "kanji": "始めて",
+      "meaning": "처음으로 (= 初めて). 과거의 첫 경험",
+      "pos": "부사"
+    },
+    {
+      "kana": "こころ",
+      "kanji": "心",
+      "meaning": "마음",
+      "pos": "명사"
+    },
+    {
+      "kana": "にしゅうかん",
+      "kanji": "二週間",
+      "meaning": "2주일",
+      "pos": "명사"
+    },
+    {
+      "kana": "わすれる",
+      "kanji": "忘れる",
+      "meaning": "잊다",
+      "pos": "동사"
+    },
+    {
+      "kana": "へや",
+      "kanji": "室",
+      "meaning": "방 (현대 표기 「部屋」의 옛 한자 표기)",
+      "pos": "명사"
+    },
+    {
+      "kana": "いい",
+      "kanji": "好い",
+      "meaning": "좋다 (현대 표기 「良い」의 옛 한자 표기)",
+      "pos": "い형용사"
+    },
+    {
+      "kana": "かわる",
+      "kanji": "代わる",
+      "meaning": "대신하다, 바뀌다 (「変わる」와 달리 사람·역할이 대신 섬)",
+      "pos": "동사"
+    },
+    {
+      "kana": "にちよう",
+      "kanji": "日曜",
+      "meaning": "일요일 (日曜日의 축약)",
+      "pos": "명사"
+    },
+    {
+      "kana": "きらい",
+      "kanji": "嫌い",
+      "meaning": "싫음, 싫어함",
+      "pos": "な형용사"
+    },
+    {
+      "kana": "うつくしい",
+      "kanji": "美しい",
+      "meaning": "아름답다",
+      "pos": "い형용사"
+    },
+    {
+      "kana": "ばかり",
+      "kanji": "ばかり",
+      "meaning": "~쯤, ~정도, ~만, ~뿐 (대략·한정의 조사)",
+      "pos": "조사"
+    },
+    {
+      "kana": "にど",
+      "kanji": "二度",
+      "meaning": "두 번",
+      "pos": "명사"
+    },
+    {
+      "kana": "まわす",
+      "kanji": "回す",
+      "meaning": "돌리다, 회전시키다",
+      "pos": "동사"
+    },
+    {
+      "kana": "ひだりがわ",
+      "kanji": "左側",
+      "meaning": "왼쪽, 좌측",
+      "pos": "명사"
+    },
+    {
+      "kana": "かける",
+      "kanji": "掛ける",
+      "meaning": "(목소리를) 걸다, 부르다; 걸치다, 걸다",
+      "pos": "동사"
+    },
+    {
+      "kana": "な",
+      "kanji": "名",
+      "meaning": "이름",
+      "pos": "명사"
+    },
+    {
+      "kana": "はっきり",
+      "kanji": "はっきり",
+      "meaning": "분명히, 또렷이",
+      "pos": "부사"
+    },
+    {
+      "kana": "くもり",
+      "kanji": "曇り",
+      "meaning": "흐림; (표정의) 어두움",
+      "pos": "명사"
+    },
+    {
+      "kana": "さす",
+      "kanji": "指す",
+      "meaning": "가리키다",
+      "pos": "동사"
+    },
+    {
+      "kana": "し",
+      "kanji": "死",
+      "meaning": "죽음",
+      "pos": "명사"
+    },
+    {
+      "kana": "ひだり",
+      "kanji": "左",
+      "meaning": "왼쪽",
+      "pos": "명사"
+    },
+    {
+      "kana": "きれい",
+      "kanji": "綺麗",
+      "meaning": "예쁨, 아름다움, 깨끗함",
+      "pos": "な형용사"
+    },
+    {
+      "kana": "きんいろ",
+      "kanji": "金色",
+      "meaning": "금색",
+      "pos": "명사"
+    },
+    {
+      "kana": "はじめて",
+      "kanji": "初めて",
+      "meaning": "처음으로 (始めて의 표준 표기)",
+      "pos": "부사"
+    },
+    {
+      "kana": "くらい",
+      "kanji": "くらい",
+      "meaning": "~정도, ~쯤 (정도·가벼운 비교. 位라고도 씀)",
+      "pos": "조사"
+    },
+    {
+      "kana": "へん",
+      "kanji": "変",
+      "meaning": "이상함, 기묘함",
+      "pos": "な형용사"
+    },
+    {
+      "kana": "くも",
+      "kanji": "雲",
+      "meaning": "구름",
+      "pos": "명사"
+    },
+    {
+      "kana": "ちから",
+      "kanji": "力",
+      "meaning": "힘",
+      "pos": "명사"
+    },
+    {
+      "kana": "はる",
+      "kanji": "春",
+      "meaning": "봄",
+      "pos": "명사"
+    },
+    {
+      "kana": "らく",
+      "kanji": "楽",
+      "meaning": "편안함, 수월함",
+      "pos": "な형용사"
+    },
+    {
+      "kana": "こう",
+      "kanji": "こう",
+      "meaning": "이렇게",
+      "pos": "부사"
+    },
+    {
+      "kana": "むかう",
+      "kanji": "向かう",
+      "meaning": "향하다",
+      "pos": "동사"
+    },
+    {
+      "kana": "ちる",
+      "kanji": "散る",
+      "meaning": "(꽃·잎이) 지다, 흩어지다",
+      "pos": "동사"
+    },
+    {
+      "kana": "こんど",
+      "kanji": "今度",
+      "meaning": "이번, 다음번",
+      "pos": "명사"
+    },
+    {
+      "kana": "そう",
+      "kanji": "そう",
+      "meaning": "그렇게, 그렇다",
+      "pos": "부사"
+    },
+    {
+      "kana": "ほんとう",
+      "kanji": "本当",
+      "meaning": "정말, 진짜",
+      "pos": "명사"
+    },
+    {
+      "kana": "ください",
+      "kanji": "下さい",
+      "meaning": "주세요",
+      "pos": "표현"
+    },
+    {
+      "kana": "つめたい",
+      "kanji": "冷たい",
+      "meaning": "차갑다, 냉담하다",
+      "pos": "い형용사"
+    },
+    {
+      "kana": "さんど",
+      "kanji": "三度",
+      "meaning": "세 번, 세 차례",
+      "pos": "명사"
+    },
+    {
+      "kana": "あるひ",
+      "kanji": "ある日",
+      "meaning": "어느 날",
+      "pos": "표현"
+    },
+    {
+      "kana": "なんで",
+      "kanji": "何で",
+      "meaning": "왜, 어째서, 무엇으로",
+      "pos": "부사"
+    },
+    {
+      "kana": "なるほど",
+      "kanji": "なるほど",
+      "meaning": "과연, 그렇구나",
+      "pos": "부사"
+    },
+    {
+      "kana": "くださる",
+      "kanji": "下さる",
+      "meaning": "주시다 (くれる의 존경어)",
+      "pos": "동사"
+    },
+    {
+      "kana": "よろこぶ",
+      "kanji": "喜ぶ",
+      "meaning": "기뻐하다",
+      "pos": "동사"
+    },
+    {
+      "kana": "そりゃ",
+      "kanji": "そりゃ",
+      "meaning": "그건, 그야 (「それは」의 구어 축약)",
+      "pos": "표현"
+    },
+    {
+      "kana": "きっと",
+      "kanji": "きっと",
+      "meaning": "분명, 꼭, 반드시",
+      "pos": "부사"
+    },
+    {
+      "kana": "さわる",
+      "kanji": "触る",
+      "meaning": "닿다, 만지다, (감정을) 건드리다",
+      "pos": "동사"
+    },
+    {
+      "kana": "おそらく",
+      "kanji": "恐らく",
+      "meaning": "아마, 어쩌면, 필시",
+      "pos": "부사"
+    },
+    {
+      "kana": "ちっとも",
+      "kanji": "ちっとも",
+      "meaning": "조금도 (부정과 호응)",
+      "pos": "부사"
+    },
+    {
+      "kana": "さけ",
+      "kanji": "酒",
+      "meaning": "술, 사케",
+      "pos": "명사"
+    },
+    {
+      "kana": "はんぶん",
+      "kanji": "半分",
+      "meaning": "절반, 반",
+      "pos": "명사"
+    },
+    {
+      "kana": "かいわ",
+      "kanji": "会話",
+      "meaning": "회화, 대화",
+      "pos": "명사"
+    },
+    {
+      "kana": "こんや",
+      "kanji": "今夜",
+      "meaning": "오늘 밤",
+      "pos": "명사"
+    },
+    {
+      "kana": "わらいごえ",
+      "kanji": "笑い声",
+      "meaning": "웃음소리",
+      "pos": "명사"
+    },
+    {
+      "kana": "きこえる",
+      "kanji": "聞こえる",
+      "meaning": "들리다",
+      "pos": "동사"
+    },
+    {
+      "kana": "せき",
+      "kanji": "席",
+      "meaning": "자리, 좌석",
+      "pos": "명사"
+    },
+    {
+      "kana": "りょこう",
+      "kanji": "旅行",
+      "meaning": "여행",
+      "pos": "명사"
+    },
+    {
+      "kana": "いちまい",
+      "kanji": "一枚",
+      "meaning": "한 장",
+      "pos": "수사"
+    },
+    {
+      "kana": "やさしい",
+      "kanji": "優しい",
+      "meaning": "다정하다, 상냥하다",
+      "pos": "い형용사"
+    },
+    {
+      "kana": "かてい",
+      "kanji": "家庭",
+      "meaning": "가정",
+      "pos": "명사"
+    },
+    {
+      "kana": "うつる",
+      "kanji": "映る",
+      "meaning": "비치다, 반영되다",
+      "pos": "동사"
+    },
+    {
+      "kana": "なく",
+      "kanji": "泣く",
+      "meaning": "울다",
+      "pos": "동사"
+    },
+    {
+      "kana": "いちじかん",
+      "kanji": "一時間",
+      "meaning": "한 시간",
+      "pos": "명사"
+    },
+    {
+      "kana": "おもて",
+      "kanji": "表",
+      "meaning": "표면, 바깥, 거리",
+      "pos": "명사"
+    },
+    {
+      "kana": "おどろく",
+      "kanji": "驚く",
+      "meaning": "놀라다",
+      "pos": "동사"
+    },
+    {
+      "kana": "わかる",
+      "kanji": "分る",
+      "meaning": "알다, 이해하다 (分かる의 옛 표기)",
+      "pos": "동사"
+    },
+    {
+      "kana": "こたえ",
+      "kanji": "答え",
+      "meaning": "대답, 답",
+      "pos": "명사"
+    },
+    {
+      "kana": "はやく",
+      "kanji": "早く",
+      "meaning": "빨리, 일찍",
+      "pos": "부사"
+    },
+    {
+      "kana": "あんしん",
+      "kanji": "安心",
+      "meaning": "안심",
+      "pos": "명사·する동사"
+    },
+    {
+      "kana": "うまれる",
+      "kanji": "生れる",
+      "meaning": "태어나다 (生まれる의 옛 표기)",
+      "pos": "동사"
+    },
+    {
+      "kana": "のる",
+      "kanji": "乗る",
+      "meaning": "타다",
+      "pos": "동사"
+    },
+    {
+      "kana": "ふね",
+      "kanji": "船",
+      "meaning": "배",
+      "pos": "명사"
+    },
+    {
+      "kana": "おくる",
+      "kanji": "送る",
+      "meaning": "보내다, 배웅하다",
+      "pos": "동사"
+    },
+    {
+      "kana": "はちじはん",
+      "kanji": "八時半",
+      "meaning": "8시 반",
+      "pos": "명사"
+    },
+    {
+      "kana": "やくそく",
+      "kanji": "約束",
+      "meaning": "약속",
+      "pos": "명사·する동사"
+    },
+    {
+      "kana": "き",
+      "kanji": "気",
+      "meaning": "기분, 마음",
+      "pos": "명사"
+    },
+    {
+      "kana": "むかし",
+      "kanji": "昔",
+      "meaning": "옛날",
+      "pos": "명사"
+    },
+    {
+      "kana": "じょうぶ",
+      "kanji": "丈夫",
+      "meaning": "튼튼함",
+      "pos": "な형용사"
+    },
+    {
+      "kana": "あなた",
+      "kanji": "あなた",
+      "meaning": "당신",
+      "pos": "대명사"
+    },
+    {
+      "kana": "おかあさん",
+      "kanji": "母さん",
+      "meaning": "어머니",
+      "pos": "명사"
+    },
+    {
+      "kana": "たくさん",
+      "kanji": "沢山",
+      "meaning": "많음",
+      "pos": "명사·부사"
+    },
+    {
+      "kana": "うえの",
+      "kanji": "上野",
+      "meaning": "우에노 (도쿄 지명)",
+      "pos": "명사·고유"
+    },
+    {
+      "kana": "もり",
+      "kanji": "森",
+      "meaning": "숲",
+      "pos": "명사"
+    },
+    {
+      "kana": "かなしい",
+      "kanji": "悲しい",
+      "meaning": "슬프다",
+      "pos": "い형용사"
+    },
+    {
+      "kana": "じゃ",
+      "kanji": "じゃ",
+      "meaning": "그럼, 그렇다면",
+      "pos": "접속사"
+    },
+    {
+      "kana": "なる",
+      "kanji": "なる",
+      "meaning": "되다",
+      "pos": "동사"
+    },
+    {
+      "kana": "ひ",
+      "kanji": "火",
+      "meaning": "불",
+      "pos": "명사"
+    },
+    {
+      "kana": "あつい",
+      "kanji": "熱い",
+      "meaning": "뜨겁다",
+      "pos": "형용사"
+    },
+    {
+      "kana": "きゃく",
+      "kanji": "客",
+      "meaning": "손님, 객인",
+      "pos": "명사"
+    },
+    {
+      "kana": "ひ",
+      "kanji": "灯",
+      "meaning": "등불, 등 (전등·램프 등 켜지는 빛)",
+      "pos": "명사"
+    },
+    {
+      "kana": "かえり",
+      "kanji": "帰り",
+      "meaning": "돌아옴, 귀로",
+      "pos": "명사"
+    },
+    {
+      "kana": "ばん",
+      "kanji": "番",
+      "meaning": "당번, 차례, 지킴",
+      "pos": "명사"
+    },
+    {
+      "kana": "まんなか",
+      "kanji": "真中",
+      "meaning": "한가운데, 정중앙",
+      "pos": "명사"
+    },
+    {
+      "kana": "しゅじん",
+      "kanji": "主人",
+      "meaning": "주인, 가장; 남편",
+      "pos": "명사"
+    },
+    {
+      "kana": "ちゃわん",
+      "kanji": "茶碗",
+      "meaning": "찻잔, 밥공기",
+      "pos": "명사"
+    },
+    {
+      "kana": "どろぼう",
+      "kanji": "泥棒",
+      "meaning": "도둑, 도둑질",
+      "pos": "명사"
+    },
+    {
+      "kana": "しつれい",
+      "kanji": "失礼",
+      "meaning": "실례, 무례",
+      "pos": "명사·동사"
+    },
+    {
+      "kana": "すき",
+      "kanji": "好き",
+      "meaning": "좋아함",
+      "pos": "형용동사"
+    },
+    {
+      "kana": "だいじ",
+      "kanji": "大事",
+      "meaning": "중요함, 소중함",
+      "pos": "형용동사·명사"
+    },
+    {
+      "kana": "ただしい",
+      "kanji": "正しい",
+      "meaning": "옳다, 바르다",
+      "pos": "형용사"
+    },
+    {
+      "kana": "けっして",
+      "kanji": "決して",
+      "meaning": "결코, 절대로 (부정과 호응)",
+      "pos": "부사"
+    },
+    {
+      "kana": "おもしろい",
+      "kanji": "面白い",
+      "meaning": "재미있다, 흥미롭다",
+      "pos": "형용사"
+    },
+    {
+      "kana": "ならべる",
+      "kanji": "並べる",
+      "meaning": "늘어놓다, 나열하다",
+      "pos": "동사"
+    },
+    {
+      "kana": "じょうず",
+      "kanji": "上手",
+      "meaning": "잘함, 능숙함",
+      "pos": "형용동사"
+    },
+    {
+      "kana": "おと",
+      "kanji": "音",
+      "meaning": "소리, 음",
+      "pos": "명사"
+    },
+    {
+      "kana": "だいじょうぶ",
+      "kanji": "大丈夫",
+      "meaning": "괜찮음, 문제없음",
+      "pos": "형용동사"
+    },
+    {
+      "kana": "にほん",
+      "kanji": "二本",
+      "meaning": "두 자루, 두 개 (가늘고 긴 것의 단위)",
+      "pos": "명사"
+    },
+    {
+      "kana": "べつ",
+      "kanji": "別",
+      "meaning": "다름, 별도",
+      "pos": "명사·형용동사"
+    },
+    {
+      "kana": "いっぱい",
+      "kanji": "いっぱい",
+      "meaning": "가득, 한도껏",
+      "pos": "부사·명사"
+    },
+    {
+      "kana": "ゆび",
+      "kanji": "指",
+      "meaning": "손가락",
+      "pos": "명사"
+    },
+    {
+      "kana": "じゅうごふん",
+      "kanji": "十五分",
+      "meaning": "15분",
+      "pos": "명사"
+    },
+    {
+      "kana": "ほそい",
+      "kanji": "細い",
+      "meaning": "가늘다, 좁다",
+      "pos": "형용사"
+    },
+    {
+      "kana": "うち",
+      "kanji": "家",
+      "meaning": "집, 우리 집",
+      "pos": "명사"
+    },
+    {
+      "kana": "にん",
+      "kanji": "人",
+      "meaning": "명, 사람 (人의 음독; 三人 = 세 명)",
+      "pos": "조수사"
+    }
+  ]
+}

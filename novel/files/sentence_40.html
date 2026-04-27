@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>문장 분석 40</title>
+<style>
+  body { font-family: 'Noto Sans KR', 'Noto Sans JP', sans-serif; max-width: 720px; margin: 40px auto; padding: 0 20px; line-height: 1.8; color: #222; }
+  h1 { font-size: 1.4em; border-bottom: 2px solid #333; padding-bottom: 8px; }
+  h2 { font-size: 1.1em; margin-top: 32px; color: #444; }
+  .original { font-size: 1.3em; background: #f5f5f5; padding: 16px; border-left: 4px solid #333; margin: 16px 0; }
+  table { border-collapse: collapse; width: 100%; margin: 12px 0; }
+  th, td { border: 1px solid #ccc; padding: 8px 12px; text-align: left; }
+  th { background: #f0f0f0; }
+  .note { background: #fffde7; padding: 12px; border-left: 3px solid #f9a825; margin: 12px 0; }
+</style>
+</head>
+<body>
+
+<h1>문장 분석 ㊵</h1>
+
+<div class="original">私わたくしがその掛茶屋で先生を見た時は、先生がちょうど着物を脱いでこれから海へ入ろうとするところであった。</div>
+
+<h2>1. 히라가나 변환</h2>
+<p>
+  <strong>わたくし</strong>が その <strong>かけぢゃや</strong>で <strong>せんせい</strong>を <strong>み</strong>た <strong>とき</strong>は、<strong>せんせい</strong>が ちょうど <strong>きもの</strong>を <strong>ぬ</strong>いで これから <strong>うみ</strong>へ <strong>はい</strong>ろうとするところであった。
+</p>
+
+<h2>2. 전체 의미</h2>
+<p>내가 그 해변 찻집에서 선생님을 봤을 때, 선생님은 마침 옷을 벗고 막 바다로 들어가려던 참이었다.</p>
+
+<h2>3. 한자 단어의 의미와 발음</h2>
+<table>
+  <tr><th>한자</th><th>발음</th><th>의미</th></tr>
+  <tr><td>私</td><td>わたくし</td><td>나, 저 (격식체)</td></tr>
+  <tr><td>掛茶屋</td><td>かけぢゃや</td><td>해변·길가의 임시 찻집</td></tr>
+  <tr><td>先生</td><td>せんせい</td><td>선생님</td></tr>
+  <tr><td>見る</td><td>みる</td><td>보다</td></tr>
+  <tr><td>時</td><td>とき</td><td>때, 시점</td></tr>
+  <tr><td>着物</td><td>きもの</td><td>옷, 기모노</td></tr>
+  <tr><td>脱ぐ</td><td>ぬぐ</td><td>벗다</td></tr>
+  <tr><td>海</td><td>うみ</td><td>바다</td></tr>
+  <tr><td>入る</td><td>はいる</td><td>들어가다</td></tr>
+</table>
+
+<h2>4. 문법 분석</h2>
+<table>
+  <tr><th>요소</th><th>설명</th></tr>
+  <tr><td>が (주격)</td><td>「私が」의 が는 동작의 주체를 부각. 「は」가 아닌 が를 쓰면 '다른 누구도 아닌 내가'라는 초점이 실림</td></tr>
+  <tr><td>その</td><td>지시 연체사. '그 (앞서 언급된/바로 그)'. 앞에 이미 알려진 특정한 장소임을 전제함</td></tr>
+  <tr><td>で (장소)</td><td>동작이 일어난 장소를 나타냄. 「掛茶屋で見た」 = "찻집에서 보았다"</td></tr>
+  <tr><td>見た時は</td><td>「見る」의 과거 + 「時」(때) + 「は」. '~ 본 그 시점을 화제로 하면' — 뒤 내용의 시간 프레임을 제시</td></tr>
+  <tr><td>ちょうど</td><td>부사. '마침, 정확히'. 우연의 일치 또는 시점의 일치를 강조</td></tr>
+  <tr><td>脱いで</td><td>「脱ぐ」의 て형. 뒤 동작(海へ入ろうとする)과 연속·부대 상황을 연결</td></tr>
+  <tr><td>これから</td><td>'이제부터, 지금부터'. 동작이 곧 시작될 것임을 암시</td></tr>
+  <tr><td>へ (방향)</td><td>이동의 방향을 나타냄. 「海へ入る」 = "바다로 들어가다"</td></tr>
+  <tr><td>入ろうとする</td><td>「入る」의 의지형 「入ろう」 + 「とする」. '막 ~하려고 하다' — 동작 직전의 의지·시도를 나타냄</td></tr>
+  <tr><td>ところであった</td><td>「ところだ」(~하려던 참이다)의 과거형. 임박한 상태에 있었음을 서술. 「入ろうとするところであった」 = "막 들어가려던 참이었다"</td></tr>
+</table>
+
+<h2>5. 특이점</h2>
+<div class="note">
+  <strong>「掛茶屋」 시대적 풍경:</strong> 기둥을 세우고 천을 걸어 임시로 지은 해변 찻집입니다. 메이지·다이쇼 시대 가마쿠라 해수욕장 같은 휴양지에서 흔히 보이던 풍경으로, 소설 전체의 시대·장소 배경을 한 단어로 불러일으킵니다.
+</div>
+<div class="note">
+  <strong>「～ようとするところであった」 복합 표현:</strong> 「～ようとする」(막 ~하려 하다) + 「ところだ」(~하는 참이다) + 과거형. 세 요소가 겹쳐 '바로 그 직전의 순간'을 정밀하게 포착합니다. 화자가 선생님을 본 순간의 '절묘한 타이밍'을 강조하는 표현입니다.
+</div>
+<div class="note">
+  <strong>「先生」의 반복:</strong> 한 문장 안에 「先生」이 두 번 등장합니다. 첫 번째는 '내가 본 대상', 두 번째는 '그때 행위의 주체'. 같은 인물이지만 시점을 옮기면서 장면을 입체적으로 그립니다.
+</div>
+
+</body>
+</html>

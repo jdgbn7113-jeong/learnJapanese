@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>문장 분석 42</title>
+<style>
+  body { font-family: 'Noto Sans KR', 'Noto Sans JP', sans-serif; max-width: 720px; margin: 40px auto; padding: 0 20px; line-height: 1.8; color: #222; }
+  h1 { font-size: 1.4em; border-bottom: 2px solid #333; padding-bottom: 8px; }
+  h2 { font-size: 1.1em; margin-top: 32px; color: #444; }
+  .original { font-size: 1.3em; background: #f5f5f5; padding: 16px; border-left: 4px solid #333; margin: 16px 0; }
+  table { border-collapse: collapse; width: 100%; margin: 12px 0; }
+  th, td { border: 1px solid #ccc; padding: 8px 12px; text-align: left; }
+  th { background: #f0f0f0; }
+  .note { background: #fffde7; padding: 12px; border-left: 3px solid #f9a825; margin: 12px 0; }
+</style>
+</head>
+<body>
+
+<h1>문장 분석 ㊷</h1>
+
+<div class="original">二人の間あいだには目を遮さえぎる幾多の黒い頭が動いていた。</div>
+
+<h2>1. 히라가나 변환</h2>
+<p>
+  <strong>ふたり</strong>の <strong>あいだ</strong>には <strong>め</strong>を <strong>さえぎ</strong>る <strong>いくた</strong>の <strong>くろ</strong>い <strong>あたま</strong>が <strong>うご</strong>いていた。
+</p>
+
+<h2>2. 전체 의미</h2>
+<p>두 사람 사이에는 시야를 가로막는 수많은 검은 머리들이 움직이고 있었다.</p>
+
+<h2>3. 한자 단어의 의미와 발음</h2>
+<table>
+  <tr><th>한자</th><th>발음</th><th>의미</th></tr>
+  <tr><td>二人</td><td>ふたり</td><td>두 사람</td></tr>
+  <tr><td>間</td><td>あいだ</td><td>사이</td></tr>
+  <tr><td>目</td><td>め</td><td>눈, 시선</td></tr>
+  <tr><td>遮る</td><td>さえぎる</td><td>가로막다, 차단하다</td></tr>
+  <tr><td>幾多</td><td>いくた</td><td>수많은, 여러</td></tr>
+  <tr><td>黒い</td><td>くろい</td><td>검다, 까맣다</td></tr>
+  <tr><td>頭</td><td>あたま</td><td>머리</td></tr>
+  <tr><td>動く</td><td>うごく</td><td>움직이다</td></tr>
+</table>
+
+<h2>4. 문법 분석</h2>
+<table>
+  <tr><th>요소</th><th>설명</th></tr>
+  <tr><td>二人の間</td><td>「二人」(두 사람) + 「の」(~의) + 「間」(사이). "두 사람 사이"</td></tr>
+  <tr><td>には</td><td>「に」(위치) + 「は」(대비·강조). 장소를 제시하며 '그 사이에는'이라고 부각</td></tr>
+  <tr><td>目を遮る</td><td>「目」(시선) + 「を」(목적) + 「遮る」(가로막다). 관형절로 뒤의 「頭」를 수식. "시선을 가로막는 (머리)"</td></tr>
+  <tr><td>幾多の</td><td>「幾多」(수많은)는 문어체 명사. 「の」로 연체 수식. "수많은 ~"</td></tr>
+  <tr><td>黒い頭</td><td>「黒い」(검다) + 「頭」(머리). 한국어로는 '검은 머리'. 해수욕 중인 사람들의 머리를 환유적으로 가리킴</td></tr>
+  <tr><td>が (주격)</td><td>동사 「動いていた」의 주체를 나타냄</td></tr>
+  <tr><td>動いていた</td><td>「動く」의 て형 + 「いた」. 과거 진행 "움직이고 있었다"</td></tr>
+</table>
+
+<h2>5. 특이점</h2>
+<div class="note">
+  <strong>「黒い頭」의 환유:</strong> 당대 일본인의 검은 머리를 통째로 지시하며 해수욕객 군중을 그려 냅니다. 얼굴도 몸도 아닌 '머리'만 잡아낸 시선이, 멀리서 인파를 바라보는 '나'의 위치를 암시합니다. 또한 뒤 문장에 등장할 '서양인'(금발·갈색머리)과의 시각적 대비를 준비하는 장치이기도 합니다.
+</div>
+<div class="note">
+  <strong>「幾多の」의 문어성:</strong> 「たくさんの」「多くの」보다 훨씬 문어적·고전적 표현. 단순한 수량이 아니라 '셀 수 없이 많은'이라는 밀도와 압박감을 부여해, 두 사람 사이에 놓인 시각적 장벽을 강조합니다.
+</div>
+<div class="note">
+  <strong>「目を遮る」 관형절:</strong> 동사가 명사를 앞에서 수식하는 구조("시선을 가로막는 머리"). 한국어에서도 같은 순서가 가능하지만 일본어는 관계대명사 없이 그냥 붙여서 씁니다. 이러한 관형절이 길어질수록 문장은 회화적·시적 밀도를 띱니다.
+</div>
+
+</body>
+</html>

@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>문장 분석 49</title>
+<style>
+  body { font-family: 'Noto Sans KR', 'Noto Sans JP', sans-serif; max-width: 720px; margin: 40px auto; padding: 0 20px; line-height: 1.8; color: #222; }
+  h1 { font-size: 1.4em; border-bottom: 2px solid #333; padding-bottom: 8px; }
+  h2 { font-size: 1.1em; margin-top: 32px; color: #444; }
+  .original { font-size: 1.3em; background: #f5f5f5; padding: 16px; border-left: 4px solid #333; margin: 16px 0; }
+  table { border-collapse: collapse; width: 100%; margin: 12px 0; }
+  th, td { border: 1px solid #ccc; padding: 8px 12px; text-align: left; }
+  th { background: #f0f0f0; }
+  .note { background: #fffde7; padding: 12px; border-left: 3px solid #f9a825; margin: 12px 0; }
+</style>
+</head>
+<body>
+
+<h1>문장 분석 ㊾</h1>
+
+<div class="original">私はその二日前に由井ゆいが浜はままで行って、砂の上にしゃがみながら、長い間西洋人の海へ入る様子を眺ながめていた。</div>
+
+<h2>1. 히라가나 변환</h2>
+<p>
+  <strong>わたくし</strong>は その <strong>ふつか</strong> <strong>まえ</strong>に <strong>ゆいがはま</strong>まで <strong>い</strong>って、<strong>すな</strong>の <strong>うえ</strong>に <strong>しゃが</strong>みながら、<strong>ながい</strong> <strong>あいだ</strong> <strong>せいようじん</strong>の <strong>うみ</strong>へ <strong>はい</strong>る <strong>ようす</strong>を <strong>なが</strong>めていた。
+</p>
+
+<h2>2. 전체 의미</h2>
+<p>나는 그 이틀 전에 유이가하마까지 가서, 모래 위에 쭈그려 앉은 채로, 오랫동안 서양인이 바다에 들어가는 모습을 바라보고 있었다.</p>
+
+<h2>3. 한자 단어의 의미와 발음</h2>
+<table>
+  <tr><th>한자</th><th>발음</th><th>의미</th></tr>
+  <tr><td>私</td><td>わたくし</td><td>나, 저 (격식체)</td></tr>
+  <tr><td>二日</td><td>ふつか</td><td>이틀, 2일</td></tr>
+  <tr><td>前</td><td>まえ</td><td>앞, 전</td></tr>
+  <tr><td>由井が浜</td><td>ゆいがはま</td><td>유이가하마 — 가마쿠라의 해변 지명</td></tr>
+  <tr><td>行く</td><td>いく</td><td>가다</td></tr>
+  <tr><td>砂</td><td>すな</td><td>모래</td></tr>
+  <tr><td>上</td><td>うえ</td><td>위</td></tr>
+  <tr><td>しゃがむ</td><td>しゃがむ</td><td>쭈그리다, 쭈그려 앉다</td></tr>
+  <tr><td>長い</td><td>ながい</td><td>긴</td></tr>
+  <tr><td>間</td><td>あいだ</td><td>사이, 동안</td></tr>
+  <tr><td>西洋人</td><td>せいようじん</td><td>서양인</td></tr>
+  <tr><td>海</td><td>うみ</td><td>바다</td></tr>
+  <tr><td>入る</td><td>はいる</td><td>들어가다</td></tr>
+  <tr><td>様子</td><td>ようす</td><td>모습, 모양, 상태</td></tr>
+  <tr><td>眺める</td><td>ながめる</td><td>바라보다, 조망하다</td></tr>
+</table>
+
+<h2>4. 문법 분석</h2>
+<table>
+  <tr><th>요소</th><th>설명</th></tr>
+  <tr><td>その二日前に</td><td>지시어 「その」 + 「二日前」(이틀 전) + 「に」(시간 표시). 현재 시점에서 이틀을 거슬러 올라가 회상을 시작</td></tr>
+  <tr><td>～まで行って</td><td>「まで」는 도달점 '까지'. 「行く」의 て형으로 뒤 동작으로 이어짐. '유이가하마까지 가서'</td></tr>
+  <tr><td>砂の上に</td><td>「砂」(모래) + 「の上に」(위에). 장소 표시. に는 동작이 귀결되는 위치</td></tr>
+  <tr><td>しゃがみながら</td><td>「しゃがむ」의 연용형 + 「ながら」. 두 동작의 동시 진행. '쭈그려 앉은 채로 (뒤 동작을 하다)'</td></tr>
+  <tr><td>長い間</td><td>명사구 부사. '오랫동안'. 뒤 동사를 수식</td></tr>
+  <tr><td>西洋人の海へ入る様子</td><td>「西洋人」+ の(주격) + 「海へ入る」(관계절) + 「様子」. の가 주격 역할로 관계절 안에서 '서양인이 바다에 들어가는'. 「様子」가 그 전체 장면의 핵심 명사</td></tr>
+  <tr><td>を眺めていた</td><td>「様子」를 목적어로 받는 타동사 「眺める」 + 「ていた」. 과거의 지속. '바라보고 있었다'</td></tr>
+</table>
+
+<h2>5. 특이점</h2>
+<div class="note">
+  <strong>시간축의 도약 — 회상의 삽입:</strong> 앞선 문장(45~48)이 '오늘 掛茶屋에서 서양인을 마주한 장면'이라면, 이 문장은 「その二日前に」라는 짧은 구문으로 시간축을 이틀 거슬러 올립니다. 이렇게 본 장면 한복판에 회상을 끼워 넣어, '오늘의 인상'이 어디서부터 축적됐는지를 설명하는 소세키 특유의 내레이션 기법입니다.
+</div>
+<div class="note">
+  <strong>「由井が浜」의 실재성:</strong> 가나가와현 가마쿠라에 실재하는 해변입니다. 메이지·다이쇼기에는 도쿄 근교의 대표적 해수욕장으로 부유층이 모이는 장소였고, 『こころ』의 무대로도 자주 등장합니다. 가상의 배경이 아니라 독자가 그려 볼 수 있는 구체적 장소를 등장시킴으로써, 이 소설이 '어딘가의 이야기'가 아니라 '바로 그 시절 그 해변의 이야기'임을 독자에게 각인시킵니다.
+</div>
+<div class="note">
+  <strong>「しゃがみながら…眺めていた」 정적 관찰자의 자세:</strong> 앉지도 서지도 않은 '쭈그림'은 일본에서 오랫동안 관찰·대기의 자세였습니다. 모래 위에 쭈그려 앉아 타인을 오래 바라보는 서술자의 모습은, 그 스스로가 '행동하는 사람'이 아니라 '관찰하는 사람'임을 암시합니다. 이 자세는 소설 전체에서 '나(서술자) vs. 선생님'의 관계 — 뒤에서 응시하는 자와 응시되는 자 — 의 구도를 예고합니다.
+</div>
+<div class="note">
+  <strong>「西洋人の海へ入る様子」 の 주격 + 관계절:</strong> 「西洋人が海へ入る様子」를 が 대신 の로 쓴 고전적 관계절 구성. 같은 이틀 전 장면에서도 '서양인'은 관찰 대상이었고, 오늘도 그렇다는 점이 의미심장합니다. 서술자에게 이 서양인은 이미 '눈에 띄는 존재'로 인지되고 있었으며, 오늘의 놀라움은 처음이 아닌 '두 번째' 마주침의 결과였음이 슬며시 드러납니다.
+</div>
+
+</body>
+</html>

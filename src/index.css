@@ -1,0 +1,73 @@
+@import "tailwindcss";
+
+@theme {
+  /* 색상 — Notion/Apple 계열 중립 화이트 팔레트 (기존 페이지) */
+  --color-ink: #1a1a2e;
+  --color-paper: #ffffff;
+  --color-accent: #c0392b;
+  --color-accent-light: #e74c3c;
+  --color-stone: #57534e;
+  --color-stone-light: #a8a29e;
+  --color-border: #e7e5e4;
+  --color-card: #fafaf9;
+
+  /* === Kotonoha 랜딩 토큰 === */
+  /* Ink 변종 */
+  --color-ink-soft: #4e5968;
+  --color-ink-faint: #8b95a1;
+  --color-ink-faint2: #b0b8c1;
+
+  /* Surfaces */
+  --color-surface-bg: #f9fafb;
+  --color-surface-card: #ffffff;
+
+  /* Lines */
+  --color-line: #f2f4f6;
+  --color-line-strong: #e5e8eb;
+
+  /* Brand (Toss 블루) */
+  --color-brand: #3182f6;
+  --color-brand-soft: #e8f1fe;
+  --color-brand-deep: #1b64da;
+
+  /* 카테고리 */
+  --color-kanji: #f04452;
+  --color-kanji-soft: #fff4f4;
+  --color-words: #00b894;
+  --color-words-soft: #e6f7f3;
+  --color-story: #7c5cf5;
+  --color-story-soft: #f0eafe;
+
+  /* 폰트 */
+  --font-serif: "Noto Serif JP", serif;
+  --font-sans: "Pretendard Variable", "Pretendard", "Noto Sans KR", -apple-system, BlinkMacSystemFont, system-ui, "Apple SD Gothic Neo", sans-serif;
+  --font-jp: "Shippori Mincho", "Noto Serif JP", serif;
+
+  /* Tracking */
+  --tracking-tightest: -0.035em;
+  --tracking-snug: -0.015em;
+
+  /* Radius */
+  --radius-card: 18px;
+  --radius-card-lg: 28px;
+
+  /* Shadows */
+  --shadow-card: 0 8px 24px -8px rgba(25, 31, 40, 0.12), 0 2px 6px -2px rgba(25, 31, 40, 0.04);
+  --shadow-card-hover: 0 12px 28px -8px rgba(25, 31, 40, 0.16), 0 3px 8px -2px rgba(25, 31, 40, 0.06);
+  --shadow-featured: 0 8px 24px -10px rgba(124, 92, 245, 0.35), 0 2px 6px -2px rgba(25, 31, 40, 0.04);
+  --shadow-featured-hover: 0 16px 36px -12px rgba(124, 92, 245, 0.40), 0 4px 10px -2px rgba(25, 31, 40, 0.06);
+
+  /* Container max-width */
+  --container-hero: 1280px;
+
+  /* Spacing — sidebar */
+  --spacing-sidebar: 260px;
+}
+
+/* 기본 스타일 */
+body {
+  margin: 0;
+  font-family: var(--font-sans);
+  background: var(--color-paper);
+  color: var(--color-ink);
+}
