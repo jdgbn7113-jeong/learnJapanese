@@ -6,7 +6,7 @@ import SceneSection from "./SceneSection";
  * Top-level landing page. Drop this into a route.
  * Image paths assume /public/landing/*.jpeg — adjust to your project.
  */
-export default function KotonohaLanding() {
+export default function RimHahahaLanding() {
   return (
     <div className="min-h-screen bg-surface-bg font-sans text-ink antialiased">
       <Sidebar />
@@ -87,7 +87,7 @@ export default function KotonohaLanding() {
             毎日すこしずつ
           </div>
           <div className="text-xs font-semibold tracking-wide">
-            © Kotonoha — 매일 한 장의 일본어
+            © RimHahaha — 매일 한 장의 일본어
           </div>
         </div>
       </main>

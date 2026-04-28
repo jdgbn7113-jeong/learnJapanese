@@ -9,7 +9,7 @@ export default function HomePage() {
     <Layout>
       <div className="text-center py-10">
         <h1 className="font-serif text-5xl font-bold mb-2">
-          漢字<span className="text-accent-light">マスター</span>
+          RimHahaha
         </h1>
         <p className="text-stone mb-8">
           부수 분해로 외우는 한자, 소설로 익히는 문장

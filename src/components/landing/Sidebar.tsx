@@ -9,7 +9,7 @@ export default function Sidebar() {
     <aside className="fixed inset-y-0 left-0 z-50 w-sidebar flex flex-col border-r border-line bg-surface-card px-6 py-8 max-[860px]:relative max-[860px]:w-full max-[860px]:flex-row max-[860px]:items-center max-[860px]:justify-between max-[860px]:border-b max-[860px]:border-r-0 max-[860px]:py-3.5 max-[860px]:px-5">
       <div className="mb-11 max-[860px]:mb-0">
         <Link to="/" className="text-[24px] font-extrabold leading-tight tracking-[-0.03em] text-brand no-underline">
-          Kotonoha
+          RimHahaha
         </Link>
       </div>
 
@@ -36,7 +36,7 @@ export default function Sidebar() {
 
       <div className="mt-auto flex flex-col gap-3.5 max-[860px]:hidden">
         <div className="flex justify-between px-1 text-[11px] font-semibold text-ink-faint2">
-          <span>© 2026 Kotonoha</span>
+          <span>© 2026 RimHahaha</span>
           <span>v1.0</span>
         </div>
       </div>

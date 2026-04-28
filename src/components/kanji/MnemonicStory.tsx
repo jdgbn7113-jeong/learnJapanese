@@ -24,9 +24,13 @@ function highlightRadicals(
 export default function MnemonicStory({ mnemonic }: Props) {
   if (!mnemonic) return null;
 
-  const { radicalRoles, story, keyImage } = mnemonic;
+  const { radicalRoles, story, keyImage, imagery } = mnemonic;
   const radicalChars = radicalRoles.map((r) => r.char);
-  const pieces = highlightRadicals(story, radicalChars);
+  const storyPieces = highlightRadicals(story, radicalChars);
+  const imageryPieces = imagery
+    ? highlightRadicals(imagery, radicalChars)
+    : [];
+  const hasOrigins = radicalRoles.some((r) => r.origin);
 
   return (
     <div className="bg-card border border-border rounded-xl p-6 space-y-5">
@@ -39,8 +43,29 @@ export default function MnemonicStory({ mnemonic }: Props) {
         </div>
       )}
 
-      {/* 부수 페르소나 — 스토리 등장인물 소개 */}
-      {radicalRoles.length > 0 && (
+      {/* 부수별 글자 유래 (origin이 있을 때만 표시) */}
+      {hasOrigins && (
+        <div className="space-y-2.5">
+          {radicalRoles.map((r, i) => (
+            <p
+              key={`${r.char}-origin-${i}`}
+              className="text-[15px] leading-relaxed text-ink"
+            >
+              <span className="font-serif font-bold text-accent text-lg mr-1">
+                {r.char}
+              </span>
+              {r.name && (
+                <span className="text-stone text-sm mr-1">({r.name})</span>
+              )}
+              <span className="text-stone-light mx-1">=</span>
+              <span>{r.origin}</span>
+            </p>
+          ))}
+        </div>
+      )}
+
+      {/* 부수 페르소나 — origin이 없을 때만 페르소나 칩 표시 (구버전 호환) */}
+      {!hasOrigins && radicalRoles.length > 0 && (
         <div className="flex flex-wrap gap-2">
           {radicalRoles.map((r, i) => (
             <span
@@ -58,7 +83,7 @@ export default function MnemonicStory({ mnemonic }: Props) {
 
       {/* 본 스토리 — 부수 글자 하이라이트 */}
       <p className="text-[15px] leading-relaxed text-ink">
-        {pieces.map((p, i) =>
+        {storyPieces.map((p, i) =>
           p.isRadical ? (
             <span
               key={i}
@@ -72,6 +97,25 @@ export default function MnemonicStory({ mnemonic }: Props) {
         )}
       </p>
 
+      {/* 감각적 장면 — 구체적 시청각 이미지 */}
+      {imagery && (
+        <div className="rounded-lg bg-accent/5 border-l-4 border-accent-light pl-4 py-3">
+          <p className="text-[15px] leading-relaxed text-ink">
+            {imageryPieces.map((p, i) =>
+              p.isRadical ? (
+                <span
+                  key={i}
+                  className="font-serif font-bold text-accent bg-accent/10 rounded px-1"
+                >
+                  {p.text}
+                </span>
+              ) : (
+                <span key={i}>{p.text}</span>
+              ),
+            )}
+          </p>
+        </div>
+      )}
     </div>
   );
 }

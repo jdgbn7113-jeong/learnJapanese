@@ -263,11 +263,11 @@ function TranslationStack({
 }) {
   const order: Array<keyof typeof translations> = ["literal", "liberal"];
   return (
-    <div className="space-y-2">
+    <div className="rounded-lg border border-border bg-card divide-y divide-border">
       {order.map((key) => (
         <div
           key={key}
-          className="rounded-lg border border-border bg-card p-4 flex flex-col md:flex-row md:items-baseline md:gap-5"
+          className="px-4 py-3 flex flex-col md:flex-row md:items-baseline md:gap-5"
         >
           <div className="shrink-0 text-xs font-bold tracking-[0.25em] text-accent mb-1 md:mb-0 md:w-24">
             {TRANSLATION_LABELS[key]}
@@ -464,7 +464,7 @@ export default function NovelReaderPage() {
           </div>
 
           {/* 원문 */}
-          <div className="mb-10 rounded-2xl bg-card text-ink p-8 border border-border border-l-4 border-l-accent">
+          <div className="mb-4 rounded-2xl bg-card text-ink p-8 border border-border border-l-4 border-l-accent">
             <OriginalWithRuby
               original={current.original}
               vocab={current.vocab}
@@ -472,7 +472,7 @@ export default function NovelReaderPage() {
           </div>
 
           {/* 섹션들 */}
-          <div className="space-y-10">
+          <div className="space-y-4">
             <section>
               <div className="rounded-xl bg-card border border-border p-6">
                 <HiraganaLine tokens={current.hiragana} />

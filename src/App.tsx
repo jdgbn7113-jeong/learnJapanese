@@ -8,13 +8,13 @@ import NovelParagraphPage from "./pages/NovelParagraphPage";
 import NovelReaderPage from "./pages/NovelReaderPage";
 import VocabListPage from "./pages/VocabListPage";
 import VocabDetailPage from "./pages/VocabDetailPage";
-import KotonohaLanding from "./components/landing/KotonohaLanding";
+import RimHahahaLanding from "./components/landing/RimHahahaLanding";
 
 function App() {
   return (
     <BrowserRouter>
       <Routes>
-        <Route path="/" element={<KotonohaLanding />} />
+        <Route path="/" element={<RimHahahaLanding />} />
         <Route path="/home" element={<HomePage />} />
         <Route path="/kanji/:char" element={<KanjiDetailPage />} />
         <Route path="/jlpt/:level" element={<JlptListPage />} />
